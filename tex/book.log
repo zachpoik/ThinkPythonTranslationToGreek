@@ -1,0 +1,1577 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.2)  2 FEB 2014 20:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**book.tex
+(./book.tex
+LaTeX2e <2011/06/27>
+Babel <3.9g> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count88
+\uc@combtoks=\toks14
+\uc@combtoksb=\toks15
+\uc@temptokena=\toks16
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2013/10/10 3.9g The Babel package
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel-greek/greek.ldf
+Language: greek 2013/10/01 v1.7b Greek support for the babel system
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2013/10/10 3.9g Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+File: lgrenc.def 2013/07/16 v0.9 LGR Greek font encoding definitions
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+File: greek-fontenc.def 2013/07/18 v0.9.1 Common Greek font encoding definition
+s
+))) (/usr/local/texlive/2013/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks20
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup7
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks21
+\ex@=\dimen114
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+LaTeX Info: Redefining \boldsymbol on input line 39.
+\pmbraise@=\dimen115
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip11
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks22
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks23
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks24
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks26
+\thm@bodyfont=\toks27
+\thm@headfont=\toks28
+\thm@notefont=\toks29
+\thm@headpunct=\toks30
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks31
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup8
+\symAMSb=\mathgroup9
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/exercise/exercise.sty
+Package: exercise 2012/05/08 v1.58 Exercise package (P.Pichaureau)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\ExerciseSkipBefore=\skip58
+\ExerciseSkipAfter=\skip59
+\Exesep=\skip60
+\Exetopsep=\skip61
+\Exeparsep=\skip62
+\Exepartopsep=\skip63
+\Exeleftmargin=\skip64
+\Exerightmargin=\skip65
+\Exelabelwidth=\skip66
+\Exelabelsep=\skip67
+\ExerciseBefore=\skip68
+\QuestionBefore=\skip69
+\subQuestionBefore=\skip70
+\subsubQuestionBefore=\skip71
+\QuestionIndent=\skip72
+\subQuestionIndent=\skip73
+\subsubQuestionIndent=\skip74
+\c@Exercise=\count106
+\c@Answer=\count107
+\c@ExePart=\count108
+\c@Question=\count109
+\c@subQuestion=\count110
+\c@subsubQuestion=\count111
+\c@savedQuestion=\count112
+\c@savedsubQuestion=\count113
+\c@savedsubsubQuestion=\count114
+\@QuestionLevel=\count115
+\@Exercisebox=\box28
+\all@Exercisebox=\box29
+\temp@Exercisebox=\box30
+\all@Answerbox=\box31
+\temp@Answerbox=\box32
+\ExerciseDifficulty=\count116
+\QuestionDifficulty=\count117
+\subQuestionDifficulty=\count118
+\subsubQuestionDifficulty=\count119
+\ExePartDifficulty=\count120
+\@Answerbox=\box33
+\colonnesLevel=\count121
+\tempskipa=\skip75
+\tempskipb=\skip76
+\@savedmathindent=\skip77
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(./hevea.sty
+Package: hevea 2002/01/11
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+\c@cuttingdepth=\count122
+ Excluding comment 'rawhtml'
+Excluding comment 'htmlonly'
+\@bgcolorbin=\box34
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count123
+\c@@ppsavesec=\count124
+\c@@ppsaveapp=\count125
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen123
+\Hy@linkcounter=\count126
+\Hy@pagecounter=\count127
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count128
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4319.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count129
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen124
+\Fld@menulength=\count130
+\Field@Width=\dimen125
+\Fld@charsize=\dimen126
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count131
+\c@Item=\count132
+\c@Hfootnote=\count133
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count134
+\c@bookmark@seq@number=\count135
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip78
+)
+\@indexfile=\write4
+\openout4 = `book.idx'.
+
+
+Writing index file book.idx
+(./book.aux
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 23.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
+))
+\openout1 = `book.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 64.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 64.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+LGR\textpentedeka already defined.
+LGR\textpenteqilioi already defined.
+LGR\textpentemuria already defined.
+LGR\textstigma already defined.
+LGR\textqoppa already defined.
+LGR\texteuro already defined.
+LGR\textperthousand already defined.
+LGR\textquoteleft already defined.
+LGR\textquoteright already defined.
+LGR\u already defined.
+LGR\= already defined.
+LGR\" already defined.
+LGR\textpercent already defined.
+LGR\textperiodcentered already defined.
+LGR\' already defined.
+LGR\textanoteleia already defined.
+LGR\textAlpha already defined.
+LGR\textBeta already defined.
+LGR\textDelta already defined.
+LGR\textEpsilon already defined.
+LGR\textPhi already defined.
+LGR\textGamma already defined.
+LGR\textEta already defined.
+LGR\textIota already defined.
+LGR\textTheta already defined.
+LGR\textKappa already defined.
+LGR\textLambda already defined.
+LGR\textMu already defined.
+LGR\textNu already defined.
+LGR\textOmicron already defined.
+LGR\textPi already defined.
+LGR\textChi already defined.
+LGR\textRho already defined.
+LGR\textSigma already defined.
+LGR\textTau already defined.
+LGR\textUpsilon already defined.
+LGR\textOmega already defined.
+LGR\textXi already defined.
+LGR\textPsi already defined.
+LGR\textZeta already defined.
+LGR\` already defined.
+LGR\textalpha already defined.
+LGR\textbeta already defined.
+LGR\textvarsigma already defined.
+LGR\textdelta already defined.
+LGR\textepsilon already defined.
+LGR\textphi already defined.
+LGR\textgamma already defined.
+LGR\texteta already defined.
+LGR\textiota already defined.
+LGR\texttheta already defined.
+LGR\textkappa already defined.
+LGR\textlambda already defined.
+LGR\textmu already defined.
+LGR\textnu already defined.
+LGR\textomicron already defined.
+LGR\textpi already defined.
+LGR\textchi already defined.
+LGR\textrho already defined.
+LGR\textautosigma already defined.
+LGR\textsigma already defined.
+LGR\texttau already defined.
+LGR\textupsilon already defined.
+LGR\textomega already defined.
+LGR\textxi already defined.
+LGR\textpsi already defined.
+LGR\textzeta already defined.
+LGR\guillemotleft already defined.
+LGR\guillemotright already defined.
+LGR\~ already defined.
+LGR\textemdash already defined.
+LGR\textdigamma already defined.
+LGR\textDigamma already defined.
+LGR\textdexiakeraia already defined.
+LGR\textaristerikeraia already defined.
+
+fontencoding LGR patched
+)
+
+Package utf8x.def Warning: Character(s)159 etc.gotredefinedsomewhere.
+(utf8x.def)                Restoringtoitsutf8x-meaning on input line 64.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 3:2
+* vratio: 1:1
+* modes: twoside 
+* h-part:(L,W,R)=(130.086pt, 397.48499pt, 86.72401pt)
+* v-part:(T,H,B)=(90.3375pt, 614.295pt, 90.3375pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=397.48499pt
+* \textheight=614.295pt
+* \oddsidemargin=57.81601pt
+* \evensidemargin=14.45403pt
+* \topmargin=-11.99998pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count136
+\scratchdimen=\dimen127
+\scratchbox=\box35
+\nofMPsegments=\count137
+\nofMParguments=\count138
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count139
+\MPscratchDim=\dimen128
+\MPnumerator=\count140
+\makeMPintoPDFobject=\count141
+\everyMPtoPDFconversion=\toks33
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box36
+Package hyperref Info: Link coloring OFF on input line 64.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count142
+)
+LaTeX Info: Redefining \ref on input line 64.
+LaTeX Info: Redefining \pageref on input line 64.
+LaTeX Info: Redefining \nameref on input line 64.
+
+(./book.out) (./book.out)
+\@outlinefile=\write5
+\openout5 = `book.out'.
+
+\c@exercise=\count143
+ (./latexonly)
+LaTeX Font Info:    Try loading font information for LGR+ppl on input line 110.
+
+LaTeX Font Info:    No file LGRppl.fd. on input line 110.
+
+
+LaTeX Font Warning: Font shape `LGR/ppl/m/n' undefined
+(Font)              using `LGR/cmr/m/n' instead on input line 110.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/data/uni-3.def
+File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
+) [1
+
+
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+LaTeX Font Info:    Try loading font information for TS1+ppl on input line 175.
+
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 187.
+
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 187.
+
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 187
+.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 187
+.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 187
+.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 187
+.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 187.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 187.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 187.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 187.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 187.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 187.
+ [4]
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 228.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 230.
+ [5
+
+]
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 311.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 311.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 311.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 311.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 311.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 311.
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--328
+
+ []
+
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 373.
+[6] [7] [8] [9] [10] [11] [12
+
+] (./book.toc
+
+LaTeX Font Warning: Font shape `LGR/ppl/bx/n' undefined
+(Font)              using `LGR/ppl/m/n' instead on input line 25.
+
+[13
+
+] [14] [15] [16] [17] [18]
+LaTeX Font Info:    Try loading font information for LGR+cmtt on input line 324
+4.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/cbfonts-fd/lgrcmtt.fd
+File: lgrcmtt.fd 2013/09/01 v1.0 Greek European Computer Typewriter
+) [19]
+[20]
+LaTeX Info: Redefining \anw@print on input line 3277.
+LaTeX Info: Redefining \anw@print on input line 3278.
+LaTeX Info: Redefining \anw@print on input line 3280.
+LaTeX Info: Redefining \anw@print on input line 3288.
+LaTeX Info: Redefining \anw@print on input line 3294.
+LaTeX Info: Redefining \anw@print on input line 3295.
+LaTeX Info: Redefining \anw@print on input line 3296.
+LaTeX Info: Redefining \anw@print on input line 3297.
+LaTeX Info: Redefining \anw@print on input line 3298.
+LaTeX Info: Redefining \anw@print on input line 3299.
+LaTeX Info: Redefining \anw@print on input line 3300.
+LaTeX Info: Redefining \anw@print on input line 3301.
+LaTeX Info: Redefining \anw@print on input line 3302.
+LaTeX Info: Redefining \anw@print on input line 3303.
+LaTeX Info: Redefining \anw@print on input line 3304.
+)
+\tf@toc=\write6
+\openout6 = `book.toc'.
+
+ [21] [22
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  1.
+[1
+
+
+] <figs/interpret.pdf, id=1379, 263.98625pt x 61.22874pt>
+File: figs/interpret.pdf Graphic file (type pdf)
+
+<use figs/interpret.pdf>
+Package pdftex.def Info: figs/interpret.pdf used on input line 814.
+(pdftex.def)             Requested size: 237.58542pt x 55.10533pt.
+ <figs/compile.pdf, id=1381, 386.44376pt x 61.22874pt>
+File: figs/compile.pdf Graphic file (type pdf)
+
+<use figs/compile.pdf>
+Package pdftex.def Info: figs/compile.pdf used on input line 831.
+(pdftex.def)             Requested size: 347.79616pt x 55.10533pt.
+ [2 <./figs/interpret.pdf> <./figs/compile.pdf>] [3]
+(/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+) [4]
+
+LaTeX Font Warning: Font shape `LGR/ppl/m/it' undefined
+(Font)              using `LGR/ppl/m/n' instead on input line 1091.
+
+[5]
+LaTeX Font Info:    Try loading font information for TS1+cmtt on input line 118
+8.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1cmtt.fd
+File: ts1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [6] [7]
+[8] [9] [10
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  2.
+[11] <figs/state2.pdf, id=1449, 313.17pt x 60.225pt>
+File: figs/state2.pdf Graphic file (type pdf)
+ <use figs/state2.pdf>
+Package pdftex.def Info: figs/state2.pdf used on input line 1563.
+(pdftex.def)             Requested size: 250.53633pt x 48.18005pt.
+
+[12 <./figs/state2.pdf>] [13] [14] [15] [16] [17] [18] [19] [20
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  3.
+[21] [22] [23] [24]
+Underfull \hbox (badness 2269) in paragraph at lines 2561--2567
+\LGR/ppl/bx/n/10 Autì to prìgram-ma pe-ri-èqei dÔo o-ri-smo-Ôc su-nˆr-th-seic: 
+to [][][][][][]\T1/cmtt/m/n/10 print_lyrics [][][][][]\LGR/ppl/bx/n/10 kai to
+ []
+
+[25] [26] <figs/stack.pdf, id=1532, 279.0425pt x 141.52875pt>
+File: figs/stack.pdf Graphic file (type pdf)
+
+<use figs/stack.pdf>
+Package pdftex.def Info: figs/stack.pdf used on input line 2774.
+(pdftex.def)             Requested size: 223.2343pt x 113.22314pt.
+ [27] [28 <./figs/stack.pdf>] [29] [30] [31]
+Underfull \hbox (badness 1584) in paragraph at lines 3190--3192
+[]\LGR/ppl/bx/n/10 Qrhsimopoi ste thn tro-po-poi-h-mènh ek-do-q  thc [][][][][]
+[]\T1/cmtt/m/n/10 do_twice [][][][][]\LGR/ppl/bx/n/10 gia na ka-lèse-te thn
+ []
+
+[32] [33] [34
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  4.
+[35] [36] [37] [38] [39] [40] [41] [42] [43]
+<figs/flowers.pdf, id=1640, 264.99pt x 103.38625pt>
+File: figs/flowers.pdf Graphic file (type pdf)
+ <use figs/flowers.pdf>
+Package pdftex.def Info: figs/flowers.pdf used on input line 3937.
+(pdftex.def)             Requested size: 211.99228pt x 82.70909pt.
+
+<figs/pies.pdf, id=1644, 220.825pt x 72.27pt>
+File: figs/pies.pdf Graphic file (type pdf)
+ <use figs/pies.pdf>
+Package pdftex.def Info: figs/pies.pdf used on input line 3955.
+(pdftex.def)             Requested size: 176.66022pt x 57.81606pt.
+ [44 <./figs/flowers.pdf> <./figs/pies.pdf>] [45] [46
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  5.
+[47] [48] [49] [50] [51] <figs/stack2.pdf, id=1699, 139.52126pt x 150.5625pt>
+File: figs/stack2.pdf Graphic file (type pdf)
+
+<use figs/stack2.pdf>
+Package pdftex.def Info: figs/stack2.pdf used on input line 4389.
+(pdftex.def)             Requested size: 111.61714pt x 120.45015pt.
+ [52 <./figs/stack2.pdf>]
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 4462
+.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [53] [54]
+[55] [56] <figs/koch.pdf, id=1733, 258.9675pt x 78.2925pt>
+File: figs/koch.pdf Graphic file (type pdf)
+ <use figs/koch.pdf>
+Package pdftex.def Info: figs/koch.pdf used on input line 4772.
+(pdftex.def)             Requested size: 207.17426pt x 62.63406pt.
+
+
+LaTeX Warning: Command \textchi invalid in math mode on input line 4782.
+
+[57 <./figs/koch.pdf>] [58
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  6.
+[59] [60] [61] [62] [63] [64] <figs/stack3.pdf, id=1792, 321.2pt x 150.5625pt>
+File: figs/stack3.pdf Graphic file (type pdf)
+
+<use figs/stack3.pdf>
+Package pdftex.def Info: figs/stack3.pdf used on input line 5351.
+(pdftex.def)             Requested size: 256.96034pt x 120.45015pt.
+ [65 <./figs/stack3.pdf>] [66] [67] [68] [69] [70]
+[71] [72
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  7.
+<figs/assign2.pdf, id=1848, 78.2925pt x 42.1575pt>
+File: figs/assign2.pdf Graphic file (type pdf)
+ <use figs/assign2.pdf>
+Package pdftex.def Info: figs/assign2.pdf used on input line 5852.
+(pdftex.def)             Requested size: 62.63406pt x 33.72603pt.
+
+[73]
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 15.0049pt on input line 5903.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 5903.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 15.0049pt on input line 5903.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 5903.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 5903.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\Delta' on input line 5903.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\eta' on input line 5903.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\lambda' on input line 5903.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\omega' on input line 5903.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\sigma' on input line 5903.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\eta' on input line 5903.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 5903.
+
+[74 <./figs/assign2.pdf>] [75] [76] [77] [78] [79] [80]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  8.
+[81
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6464.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\Delta' on input line 6464.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\iota' on input line 6464.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\alpha' on input line 6464.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\sigma' on input line 6464.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\chi' on input line 6464.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\iota' on input line 6464.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\sigma' on input line 6464.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\eta' on input line 6464.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6464.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6464.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mu' on input line 6464.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\epsilon' on input line 6464.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6464.
+
+[82] <figs/banana.pdf, id=1909, 195.73125pt x 52.195pt>
+File: figs/banana.pdf Graphic file (type pdf)
+ <use figs/banana.pdf>
+Package pdftex.def Info: figs/banana.pdf used on input line 6581.
+(pdftex.def)             Requested size: 156.58519pt x 41.75604pt.
+
+[83] [84 <./figs/banana.pdf>] [85] [86]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6842.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 6842.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\epsilon' on input line 6842.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\lambda' on input line 6842.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\epsilon' on input line 6842.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\sigma' on input line 6842.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 6842.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\eta' on input line 6842.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\varsigma' on input line 6842.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6842.
+
+[87] [88] <figs/state4.pdf, id=1946, 245.91875pt x 56.21pt>
+File: figs/state4.pdf Graphic file (type pdf)
+
+<use figs/state4.pdf>
+Package pdftex.def Info: figs/state4.pdf used on input line 7032.
+(pdftex.def)             Requested size: 196.73524pt x 44.96805pt.
+ [89 <./figs/state4.pdf>] [90] [91] [92
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  9.
+[93] [94] [95] [96] [97] [98]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  10.
+[99
+
+] <figs/liststate.pdf, id=2031, 218.8175pt x 204.765pt>
+File: figs/liststate.pdf Graphic file (type pdf)
+
+<use figs/liststate.pdf>
+Package pdftex.def Info: figs/liststate.pdf used on input line 7845.
+(pdftex.def)             Requested size: 175.05423pt x 163.8122pt.
+ [100 <./figs/liststate.pdf>] [101] [102] [103]
+[104] <figs/list1.pdf, id=2063, 218.8175pt x 42.1575pt>
+File: figs/list1.pdf Graphic file (type pdf)
+ <use figs/list1.pdf>
+Package pdftex.def Info: figs/list1.pdf used on input line 8411.
+(pdftex.def)             Requested size: 175.05423pt x 33.72603pt.
+
+[105] <figs/list2.pdf, id=2072, 96.36pt x 42.1575pt>
+File: figs/list2.pdf Graphic file (type pdf)
+ <use figs/list2.pdf>
+Package pdftex.def Info: figs/list2.pdf used on input line 8451.
+(pdftex.def)             Requested size: 77.08807pt x 33.72603pt.
+
+<figs/list3.pdf, id=2074, 96.36pt x 42.1575pt>
+File: figs/list3.pdf Graphic file (type pdf)
+ <use figs/list3.pdf>
+Package pdftex.def Info: figs/list3.pdf used on input line 8495.
+(pdftex.def)             Requested size: 77.08807pt x 33.72603pt.
+ [106 <./figs/list1.pdf> <./figs/list2.pdf>]
+<figs/stack5.pdf, id=2093, 241.90375pt x 74.2775pt>
+File: figs/stack5.pdf Graphic file (type pdf)
+ <use figs/stack5.pdf>
+Package pdftex.def Info: figs/stack5.pdf used on input line 8570.
+(pdftex.def)             Requested size: 193.52325pt x 59.42207pt.
+
+[107 <./figs/list3.pdf>] [108 <./figs/stack5.pdf>] [109]
+Underfull \hbox (badness 1394) in paragraph at lines 8855--8858
+[]\LGR/ppl/m/it/10 You can re-ad a-bout th-is pro-blem at []$\LGR/cmtt/m/it/10 
+http : / / en . wikipedia . org / wiki / Birthday _
+ []
+
+[110] [111] [112
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  11.
+[113] [114] [115] [116] <figs/dict1.pdf, id=2190, 318.18875pt x 136.51pt>
+File: figs/dict1.pdf Graphic file (type pdf)
+
+<use figs/dict1.pdf>
+Package pdftex.def Info: figs/dict1.pdf used on input line 9396.
+(pdftex.def)             Requested size: 254.55133pt x 109.20813pt.
+ [117] [118 <./figs/dict1.pdf>]
+<figs/fibonacci.pdf, id=2215, 309.155pt x 218.8175pt>
+File: figs/fibonacci.pdf Graphic file (type pdf)
+ <use figs/fibonacci.pdf>
+Package pdftex.def Info: figs/fibonacci.pdf used on input line 9474.
+(pdftex.def)             Requested size: 216.40701pt x 153.17119pt.
+
+[119 <./figs/fibonacci.pdf>] [120] [121] [122] [123] [124]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  12.
+[125
+
+] [126] [127] [128] [129] <figs/tuple1.pdf, id=2296, 124.465pt x 56.21pt>
+File: figs/tuple1.pdf Graphic file (type pdf)
+
+<use figs/tuple1.pdf>
+Package pdftex.def Info: figs/tuple1.pdf used on input line 10434.
+(pdftex.def)             Requested size: 99.57213pt x 44.96805pt.
+ <figs/dict2.pdf, id=2298, 235.88126pt x 127.47626pt>
+File: figs/dict2.pdf Graphic file (type pdf)
+
+<use figs/dict2.pdf>
+Package pdftex.def Info: figs/dict2.pdf used on input line 10445.
+(pdftex.def)             Requested size: 188.70525pt x 101.98112pt.
+ [130 <./figs/tuple1.pdf> <./figs/dict2.pdf>] [131]
+[132] [133] [134]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  13.
+[135
+
+] [136] [137] [138] [139]
+Underfull \hbox (badness 10000) in paragraph at lines 11343--11352
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11343--11352
+
+ []
+
+[140] [141] [142] [143] [144] [145] [146
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  14.
+[147] [148] [149] [150] [151] [152] [153] [154] [155] [156
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  15.
+[157] <figs/point.pdf, id=2528, 124.465pt x 55.20625pt>
+File: figs/point.pdf Graphic file (type pdf)
+ <use figs/point.pdf>
+Package pdftex.def Info: figs/point.pdf used on input line 12721.
+(pdftex.def)             Requested size: 99.57213pt x 44.16504pt.
+
+[158 <./figs/point.pdf>] [159]
+<figs/rectangle.pdf, id=2545, 219.82124pt x 74.2775pt>
+File: figs/rectangle.pdf Graphic file (type pdf)
+
+<use figs/rectangle.pdf>
+Package pdftex.def Info: figs/rectangle.pdf used on input line 12848.
+(pdftex.def)             Requested size: 175.85722pt x 59.42207pt.
+ [160 <./figs/rectangle.pdf>] [161]
+<figs/rectangle2.pdf, id=2562, 371.3875pt x 60.225pt>
+File: figs/rectangle2.pdf Graphic file (type pdf)
+
+<use figs/rectangle2.pdf>
+Package pdftex.def Info: figs/rectangle2.pdf used on input line 13008.
+(pdftex.def)             Requested size: 297.1104pt x 48.18005pt.
+ [162 <./figs/rectangle2.pdf>] [163] [164]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  16.
+<figs/time.pdf, id=2594, 139.52126pt x 73.27374pt>
+File: figs/time.pdf Graphic file (type pdf)
+ <use figs/time.pdf>
+Package pdftex.def Info: figs/time.pdf used on input line 13312.
+(pdftex.def)             Requested size: 111.61714pt x 58.61905pt.
+ [165
+
+]
+[166 <./figs/time.pdf>] [167] [168] [169] [170]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  17.
+[171
+
+] [172] [173] [174] [175] [176] [177] [178] [179] [180]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  18.
+[181
+
+] [182] <figs/card1.pdf, id=2740, 194.7275pt x 155.58125pt>
+File: figs/card1.pdf Graphic file (type pdf)
+
+<use figs/card1.pdf>
+Package pdftex.def Info: figs/card1.pdf used on input line 14767.
+(pdftex.def)             Requested size: 155.7822pt x 124.46515pt.
+ [183 <./figs/card1.pdf>] [184] [185] [186] [187]
+<figs/class1.pdf, id=2773, 150.5625pt x 87.32625pt>
+File: figs/class1.pdf Graphic file (type pdf)
+ <use figs/class1.pdf>
+Package pdftex.def Info: figs/class1.pdf used on input line 15207.
+(pdftex.def)             Requested size: 120.45015pt x 69.86108pt.
+
+[188 <./figs/class1.pdf>] [189] [190] [191]
+LaTeX Font Info:    Try loading font information for LGR+cmss on input line 155
+67.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/cbfonts-fd/lgrcmss.fd
+File: lgrcmss.fd 2013/09/01 v1.0 Greek European Computer Sans Serif
+) [192]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  19.
+[193
+
+] [194] [195] [196]
+<figs/TurtleWorld.pdf, id=2868, 597.23125pt x 432.61626pt>
+File: figs/TurtleWorld.pdf Graphic file (type pdf)
+
+<use figs/TurtleWorld.pdf>
+Package pdftex.def Info: figs/TurtleWorld.pdf used on input line 16027.
+(pdftex.def)             Requested size: 298.61488pt x 216.3076pt.
+
+Underfull \hbox (badness 1960) in paragraph at lines 16033--16036
+[]\LGR/ppl/m/it/10 This se-ction pre-sents the co-de that cre-a-tes th-is GUI, 
+bro-ken in-to a se-ries of
+ []
+
+[197] [198 <./figs/TurtleWorld.pdf>] [199] [200] [201] [202] [203] [204]
+Underfull \hbox (badness 1515) in paragraph at lines 16664--16671
+[]\LGR/ppl/m/it/10 You can u-se the \LGR/cmtt/m/n/10 urllib \LGR/ppl/m/it/10 mo
+-du-le to do-wn-lo-ad fi-les (se-e E-xe-rci-se []14.6[]) and the
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 16664--16671
+\LGR/cmtt/m/n/10 HTMLParser \LGR/ppl/m/it/10 mo-du-le to par-se the H-TML tags 
+(se-e []$\LGR/cmtt/m/it/10 http : / / docc . python . org / 2 /
+ []
+
+[205] [206
+
+]
+\textPi \textalpha \textrho \acctonos \textalpha \textrho \texttau \texteta \te
+xtmu \textalpha  {\textalpha \anw@true \anw@print \relax }.
+LaTeX Info: Redefining \anw@print on input line 16684.
+LaTeX Info: Redefining \anw@print on input line 16726.
+[207]
+LaTeX Info: Redefining \anw@print on input line 16800.
+LaTeX Info: Redefining \anw@print on input line 16844.
+ [208]
+LaTeX Info: Redefining \anw@print on input line 16846.
+LaTeX Info: Redefining \anw@print on input line 16853.
+LaTeX Info: Redefining \anw@print on input line 16866.
+LaTeX Info: Redefining \anw@print on input line 16926.
+ [209]
+LaTeX Info: Redefining \anw@print on input line 16970.
+LaTeX Info: Redefining \anw@print on input line 16990.
+ [210]
+LaTeX Info: Redefining \anw@print on input line 17065.
+LaTeX Info: Redefining \anw@print on input line 17092.
+ [211]
+LaTeX Info: Redefining \anw@print on input line 17102.
+LaTeX Info: Redefining \anw@print on input line 17122.
+LaTeX Info: Redefining \anw@print on input line 17163.
+ [212]
+LaTeX Info: Redefining \anw@print on input line 17164.
+LaTeX Info: Redefining \anw@print on input line 17223.
+LaTeX Info: Redefining \anw@print on input line 17247.
+LaTeX Info: Redefining \anw@print on input line 17261.
+ [213]
+LaTeX Info: Redefining \anw@print on input line 17287.
+LaTeX Info: Redefining \anw@print on input line 17325.
+ [214]
+\textPi \textalpha \textrho \acctonos \textalpha \textrho \texttau \texteta \te
+xtmu \textalpha  {\textbeta \anw@true \anw@print \relax }.
+LaTeX Info: Redefining \anw@print on input line 17325.
+[215
+
+]
+LaTeX Info: Redefining \anw@print on input line 17414.
+LaTeX Info: Redefining \anw@print on input line 17472.
+ [216]
+LaTeX Info: Redefining \anw@print on input line 17517.
+LaTeX Info: Redefining \anw@print on input line 17562.
+ [217]
+LaTeX Info: Redefining \anw@print on input line 17562.
+LaTeX Info: Redefining \anw@print on input line 17651.
+ [218]
+LaTeX Info: Redefining \anw@print on input line 17668.
+LaTeX Info: Redefining \anw@print on input line 17672.
+LaTeX Info: Redefining \anw@print on input line 17708.
+LaTeX Info: Redefining \anw@print on input line 17735.
+ [219]
+LaTeX Info: Redefining \anw@print on input line 17741.
+LaTeX Info: Redefining \anw@print on input line 17766.
+LaTeX Info: Redefining \anw@print on input line 17822.
+ [220]
+LaTeX Info: Redefining \anw@print on input line 17890.
+ [221]
+LaTeX Info: Redefining \anw@print on input line 17965.
+ [222]
+LaTeX Info: Redefining \anw@print on input line 17983.
+
+<figs/towers.pdf, id=3062, 659.46375pt x 158.5925pt>
+File: figs/towers.pdf Graphic file (type pdf)
+ <use figs/towers.pdf>
+Package pdftex.def Info: figs/towers.pdf used on input line 17989.
+(pdftex.def)             Requested size: 659.46213pt x 158.59209pt.
+LaTeX Info: Redefining \anw@print on input line 17990.
+LaTeX Info: Redefining \anw@print on input line 18015.
+
+[223 <./figs/towers.pdf>]
+LaTeX Info: Redefining \anw@print on input line 18015.
+ [224
+
+]
+\textPi \textalpha \textrho \acctonos \textalpha \textrho \texttau \texteta \te
+xtmu \textalpha  {\textgamma \anw@true \anw@print \relax }.
+LaTeX Info: Redefining \anw@print on input line 18015.
+LaTeX Info: Redefining \anw@print on input line 18076.
+<figs/lumpydemo1.pdf, id=3091, 230.8625pt x 90.3375pt>
+File: figs/lumpydemo1.pdf Graphic file (type pdf)
+
+<use figs/lumpydemo1.pdf>
+Package pdftex.def Info: figs/lumpydemo1.pdf used on input line 18080.
+(pdftex.def)             Requested size: 161.60263pt x 63.23581pt.
+LaTeX Info: Redefining \anw@print on input line 18081.
+ [225]
+LaTeX Info: Redefining \anw@print on input line 18118.
+LaTeX Info: Redefining \anw@print on input line 18137.
+
+<figs/lumpydemo2.pdf, id=3099, 317.185pt x 30.1125pt>
+File: figs/lumpydemo2.pdf Graphic file (type pdf)
+
+<use figs/lumpydemo2.pdf>
+Package pdftex.def Info: figs/lumpydemo2.pdf used on input line 18141.
+(pdftex.def)             Requested size: 222.02797pt x 21.07858pt.
+LaTeX Info: Redefining \anw@print on input line 18142.
+LaTeX Info: Redefining \anw@print on input line 18164.
+ [226 <./figs/lumpydemo1.pdf> <./figs/lumpydemo2.pdf>]
+LaTeX Info: Redefining \anw@print on input line 18166.
+LaTeX Info: Redefining \anw@print on input line 18185.
+<figs/lumpydemo3.pdf, id=3118, 167.62625pt x 186.6975pt>
+File: figs/lumpydemo3.pdf Graphic file (type pdf)
+
+<use figs/lumpydemo3.pdf>
+Package pdftex.def Info: figs/lumpydemo3.pdf used on input line 18189.
+(pdftex.def)             Requested size: 117.33755pt x 130.68735pt.
+LaTeX Info: Redefining \anw@print on input line 18190.
+LaTeX Info: Redefining \anw@print on input line 18210.
+ [227 <./figs/lumpydemo3.pdf>]
+LaTeX Info: Redefining \anw@print on input line 18212.
+
+<figs/lumpydemo4.pdf, id=3132, 174.6525pt x 307.1475pt>
+File: figs/lumpydemo4.pdf Graphic file (type pdf)
+
+<use figs/lumpydemo4.pdf>
+Package pdftex.def Info: figs/lumpydemo4.pdf used on input line 18221.
+(pdftex.def)             Requested size: 122.2559pt x 215.00177pt.
+LaTeX Info: Redefining \anw@print on input line 18222.
+LaTeX Info: Redefining \anw@print on input line 18243.
+
+<figs/lumpydemo5.pdf, id=3136, 189.70876pt x 216.81pt>
+File: figs/lumpydemo5.pdf Graphic file (type pdf)
+
+<use figs/lumpydemo5.pdf>
+Package pdftex.def Info: figs/lumpydemo5.pdf used on input line 18249.
+(pdftex.def)             Requested size: 132.79521pt x 151.76596pt.
+LaTeX Info: Redefining \anw@print on input line 18250.
+LaTeX Info: Redefining \anw@print on input line 18279.
+ [228 <./figs/lumpydemo4.pdf>]
+LaTeX Info: Redefining \anw@print on input line 18281.
+LaTeX Info: Redefining \anw@print on input line 18289.
+
+<figs/lumpydemo6.pdf, id=3150, 371.3875pt x 96.36pt>
+File: figs/lumpydemo6.pdf Graphic file (type pdf)
+ <use figs/lumpydemo6.pdf>
+Package pdftex.def Info: figs/lumpydemo6.pdf used on input line 18293.
+(pdftex.def)             Requested size: 259.96947pt x 67.45152pt.
+LaTeX Info: Redefining \anw@print on input line 18294.
+LaTeX Info: Redefining \anw@print on input line 18311.
+
+[229 <./figs/lumpydemo5.pdf> <./figs/lumpydemo6.pdf>]
+LaTeX Info: Redefining \anw@print on input line 18333.
+LaTeX Info: Redefining \anw@print on input line 18351.
+
+<figs/lumpydemo7.pdf, id=3171, 192.72pt x 139.52126pt>
+File: figs/lumpydemo7.pdf Graphic file (type pdf)
+
+<use figs/lumpydemo7.pdf>
+Package pdftex.def Info: figs/lumpydemo7.pdf used on input line 18355.
+(pdftex.def)             Requested size: 134.90306pt x 97.6642pt.
+LaTeX Info: Redefining \anw@print on input line 18356.
+
+<figs/lumpydemo8.pdf, id=3172, 399.4925pt x 318.18875pt>
+File: figs/lumpydemo8.pdf Graphic file (type pdf)
+
+<use figs/lumpydemo8.pdf>
+Package pdftex.def Info: figs/lumpydemo8.pdf used on input line 18362.
+(pdftex.def)             Requested size: 279.64284pt x 222.73059pt.
+LaTeX Info: Redefining \anw@print on input line 18363.
+LaTeX Info: Redefining \anw@print on input line 18383.
+ [230 <./figs/lumpydemo7.pdf>]
+LaTeX Info: Redefining \anw@print on input line 18403.
+LaTeX Info: Redefining \anw@print on input line 18419.
+ [231 <./figs/lumpydemo8.pdf>]
+LaTeX Info: Redefining \anw@print on input line 18435.
+
+No file book.ind.
+LaTeX Info: Redefining \anw@print on input line 18449.
+[232]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 18455.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 18455.
+ (./book.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 18455.
+
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 18455
+.
+Package rerunfilecheck Info: File `book.out' has not changed.
+(rerunfilecheck)             Checksum: 9C2FCF1EBD3FDE4F11439A545D249181;39206.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 18455.
+ ) 
+Here is how much of TeX's memory you used:
+ 15314 strings out of 493308
+ 217700 string characters out of 6137822
+ 306541 words of memory out of 5000000
+ 17671 multiletter control sequences out of 15000+600000
+ 64222 words of font info for 156 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 32i,13n,43p,1926b,6592s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{exercise.8.4} has been referenced but does not ex
+ist, replaced by a fixed one
+
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/
+usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/u
+sr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texliv
+e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive
+/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/
+2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/20
+13/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/201
+3/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/2013/tex
+mf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2013/texmf-d
+ist/fonts/type1/public/cbfonts/grmn0600.pfb></usr/local/texlive/2013/texmf-dist
+/fonts/type1/public/cbfonts/grmn0800.pfb></usr/local/texlive/2013/texmf-dist/fo
+nts/type1/public/cbfonts/grmn0900.pfb></usr/local/texlive/2013/texmf-dist/fonts
+/type1/public/cbfonts/grmn1000.pfb></usr/local/texlive/2013/texmf-dist/fonts/ty
+pe1/public/cbfonts/grmn1200.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1
+/public/cbfonts/grmn1440.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pu
+blic/cbfonts/grmn2074.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publi
+c/cbfonts/grmn2488.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/c
+bfonts/gsmn1000.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/cbfo
+nts/gtti1000.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/cbfonts
+/gttn0800.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/cbfonts/gt
+tn1000.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/cbfonts/gttn1
+200.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/cbfonts/gttn1440
+.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfss1000.p
+fb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb><
+/usr/local/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb></u
+sr/local/texlive/2013/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/loca
+l/texlive/2013/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texli
+ve/2013/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on book.pdf (254 pages, 1152722 bytes).
+PDF statistics:
+ 3474 PDF objects out of 3580 (max. 8388607)
+ 3089 compressed objects within 31 object streams
+ 794 named destinations out of 1000 (max. 500000)
+ 2178 words of extra memory for PDF output out of 10000 (max. 10000000)
+
