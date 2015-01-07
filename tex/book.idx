@@ -931,7 +931,7 @@
 \indexentry{hashtable|hyperpage}{112}
 \indexentry{set membership|hyperpage}{112}
 \indexentry{membership!set|hyperpage}{112}
-\indexentry{counter|hyperpage}{112}
+\indexentry{counter|hyperpage}{113}
 \indexentry{implementation|hyperpage}{113}
 \indexentry{histogram|hyperpage}{113}
 \indexentry{frequency|hyperpage}{113}
@@ -1001,10 +1001,10 @@
 \indexentry{debugging|hyperpage}{120}
 \indexentry{sanity check|hyperpage}{120}
 \indexentry{consistency check|hyperpage}{120}
-\indexentry{pretty print|hyperpage}{120}
-\indexentry{pprint module|hyperpage}{120}
-\indexentry{module!pprint|hyperpage}{120}
-\indexentry{scaffolding|hyperpage}{120}
+\indexentry{pretty print|hyperpage}{121}
+\indexentry{pprint module|hyperpage}{121}
+\indexentry{module!pprint|hyperpage}{121}
+\indexentry{scaffolding|hyperpage}{121}
 \indexentry{dictionary|hyperpage}{121}
 \indexentry{key-value pair|hyperpage}{121}
 \indexentry{item!dictionary|hyperpage}{121}
@@ -1024,7 +1024,7 @@
 \indexentry{global variable|hyperpage}{121}
 \indexentry{flag|hyperpage}{121}
 \indexentry{declaration|hyperpage}{121}
-\indexentry{duplicate|hyperpage}{121}
+\indexentry{duplicate|hyperpage}{122}
 \indexentry{letter rotation|hyperpage}{122}
 \indexentry{rotation!letters|hyperpage}{122}
 \indexentry{Car Talk|hyperpage}{122}

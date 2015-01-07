@@ -131,7 +131,7 @@
 \contentsline {section}{\numberline {10.14}Ορολογία}{108}{section.10.14}
 \contentsline {section}{\numberline {10.15}Ασκήσεις}{109}{section.10.15}
 \contentsline {chapter}{\numberline {11}Λεξικά}{111}{chapter.11}
-\contentsline {section}{\numberline {11.1}Το λεξικό ως ένα σύνολο από μετρητές}{112}{section.11.1}
+\contentsline {section}{\numberline {11.1}Το λεξικό ως ένα σύνολο από μετρητές}{113}{section.11.1}
 \contentsline {section}{\numberline {11.2}Λεξικά και βρόχοι}{114}{section.11.2}
 \contentsline {section}{\numberline {11.3}Αντίστροφη αναζήτηση}{114}{section.11.3}
 \contentsline {section}{\numberline {11.4}Λεξικά και λίστες}{115}{section.11.4}
@@ -140,7 +140,7 @@
 \contentsline {section}{\numberline {11.7}Ακέραιοι μεγάλου μήκους}{119}{section.11.7}
 \contentsline {section}{\numberline {11.8}Αποσφαλμάτωση}{120}{section.11.8}
 \contentsline {section}{\numberline {11.9}Ορολογία}{121}{section.11.9}
-\contentsline {section}{\numberline {11.10}Ασκήσεις}{121}{section.11.10}
+\contentsline {section}{\numberline {11.10}Ασκήσεις}{122}{section.11.10}
 \contentsline {chapter}{\numberline {12}Πλειάδες}{123}{chapter.12}
 \contentsline {section}{\numberline {12.1}Οι πλειάδες είναι αμετάβλητες}{123}{section.12.1}
 \contentsline {section}{\numberline {12.2}Εκχώρηση πλειάδων}{124}{section.12.2}
