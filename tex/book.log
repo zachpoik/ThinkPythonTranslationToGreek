@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/W32TeX) (preloaded format=xelatex 2014.7.17)  4 FEB 2015 14:58
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/W32TeX) (preloaded format=xelatex 2014.7.17)  16 MAY 2015 13:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1082,7 +1082,16 @@ Overfull \hbox (1.39297pt too wide) in paragraph at lines 351--354
 in Vienna, Austria. He is working on a German translation
  []
 
-[7] [8] [9] [10] (./book.toc [11
+[7]
+
+LaTeX Warning: Reference `exrotatepairs' on page viii undefined on input line 4
+45.
+
+[8]
+
+LaTeX Warning: Reference `checksum' on page ix undefined on input line 459.
+
+[9] [10] (./book.toc [11
 
 ] [12] [13] [14] [15]
 LaTeX Info: Redefining \anw@print on input line 239.
@@ -1126,10 +1135,17 @@ Overfull \hbox (5.49359pt too wide) in paragraph at lines 636--644
 
 
 ]
+
+LaTeX Warning: Reference `fig.interpret' on page 2 undefined on input line 658.
+
+
 File: figs/interpret.pdf Graphic file (type QTm)
- <use  "figs/interpret.pdf" >
+<use  "figs/interpret.pdf" >
+
+LaTeX Warning: Reference `fig.compile' on page 2 undefined on input line 677.
+
 File: figs/compile.pdf Graphic file (type QTm)
- <use  "figs/compile.pdf" >
+<use  "figs/compile.pdf" >
 Overfull \hbox (3.80087pt too wide) in paragraph at lines 686--690
 \EU1/TimesNewRoman(0)/m/n/10 διερμηνέα. Υπάρχουν δύο τρόποι χρήσης του διερμηνέ
 α: \EU1/TimesNewRoman(0)/bx/n/10 διαδραστική λειτουργία \EU1/TimesNewRoman(0)/m
@@ -1140,6 +1156,9 @@ Overfull \hbox (3.80087pt too wide) in paragraph at lines 686--690
 Underfull \vbox (badness 3118) has occurred while \output is active []
 
  [6]
+
+LaTeX Warning: Reference `funcchap' on page 7 undefined on input line 1051.
+
 [7] [8]
 Overfull \hbox (0.96657pt too wide) in paragraph at lines 1229--1233
 []\EU1/TimesNewRoman(0)/bx/n/10 Άσκηση 1.1. \EU1/TimesNewRoman(0)/m/it/10 Χρησι
@@ -1152,8 +1171,11 @@ Overfull \hbox (0.96657pt too wide) in paragraph at lines 1229--1233
 ]
 Κεφάλαιο 2.
 [11]
+
+LaTeX Warning: Reference `fig.state2' on page 12 undefined on input line 1376.
+
 File: figs/state2.pdf Graphic file (type QTm)
- <use  "figs/state2.pdf" > [12] [13]
+<use  "figs/state2.pdf" > [12] [13]
 Overfull \hbox (2.08603pt too wide) in paragraph at lines 1501--1508
 \EU1/TimesNewRoman(0)/m/n/10 δυαδικούς τελεστές αλλά μπορείτε να διαβάσετε για 
 αυτούς στην διεύθυνση []$[][][][] [] [] [] [][][][] [] [][][][][][] []
@@ -1173,7 +1195,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1955--1957
 
 ]
 Κεφάλαιο 3.
-[21] [22] [23] [24]
+[21] [22] [23]
+
+LaTeX Warning: Reference `editor' on page 24 undefined on input line 2245.
+
+[24]
 Overfull \hbox (6.58083pt too wide) in paragraph at lines 2346--2350
 []\EU1/TimesNewRoman(0)/m/n/10 Αυτό το πρόγραμμα περιέχει δύο ορισμούς συνάρτησ
 ης: τον []\EU1/lmtt/m/n/10 print_lyrics \EU1/TimesNewRoman(0)/m/n/10 και τον []
@@ -1186,8 +1212,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 2351--2352
  []
 
 [25] [26]
+
+LaTeX Warning: Reference `fig.stack' on page 27 undefined on input line 2533.
+
 File: figs/stack.pdf Graphic file (type QTm)
- <use  "figs/stack.pdf" > [27]
+<use  "figs/stack.pdf" > [27]
 Overfull \hbox (14.46332pt too wide) in paragraph at lines 2609--2611
 []\EU1/TimesNewRoman(0)/m/n/10 Όταν καλείτε μια συνάρτηση σε διαδραστική λειτου
 ργία τότε η Python εμφανίζει το αποτέλεσμα: 
@@ -1256,12 +1285,21 @@ Overfull \hbox (1.038pt too wide) in paragraph at lines 3528--3531
  []
 
 
+LaTeX Warning: Reference `refactoring' on page 43 undefined on input line 3564.
+
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 3564--3570
 
  []
 
 File: figs/flowers.pdf Graphic file (type QTm)
-<use  "figs/flowers.pdf" > [43]
+<use  "figs/flowers.pdf" >
+
+LaTeX Warning: Reference `fig.flowers' on page 43 undefined on input line 3586.
+
+
+[43]
 Overfull \hbox (15.05997pt too wide) in paragraph at lines 3588--3591
 []\EU1/TimesNewRoman(0)/m/it/10 Λύση: []$[][][][] [] [] [] [][][][][][][][][][]
 [] [] [][][] [] [][][][] [] [][][][][][] [] [][]$[]. Θα χρειαστείτε και την []$
@@ -1275,6 +1313,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 3588--3591
 
 File: figs/pies.pdf Graphic file (type QTm)
 <use  "figs/pies.pdf" >
+
+LaTeX Warning: Reference `fig.pies' on page 44 undefined on input line 3604.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 3606--3608
 
  []
@@ -1295,9 +1337,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 3625--3628
 Κεφάλαιο 5.
 [45
 
-] [46] [47] [48] [49]
+] [46] [47] [48]
+
+LaTeX Warning: Reference `stackdiagram' on page 49 undefined on input line 3972
+.
+
+[49]
+
+LaTeX Warning: Reference `fig.stack2' on page 50 undefined on input line 3977.
+
 File: figs/stack2.pdf Graphic file (type QTm)
- <use  "figs/stack2.pdf" >
+<use  "figs/stack2.pdf" >
 Underfull \hbox (badness 10000) in paragraph at lines 3991--3992
 
  []
@@ -1312,10 +1362,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 4303--4307
 
  []
 
+
+LaTeX Warning: Reference `turtlechap' on page 54 undefined on input line 4311.
+
+
+LaTeX Warning: Reference `turtlechap' on page 54 undefined on input line 4318.
+
 File: figs/koch.pdf Graphic file (type QTm)
 <use  "figs/koch.pdf" >
+
+LaTeX Warning: Reference `fig.koch' on page 54 undefined on input line 4349.
+
 Missing character: There is no χ in font cmmi10!
- [54] [55] [56
+[54] [55] [56
 
 ]
 Κεφάλαιο 6.
@@ -1336,6 +1395,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 4742--4744
  []
 
 [61]
+
+LaTeX Warning: Reference `recursion' on page 62 undefined on input line 4842.
+
+
 Overfull \hbox (8.02583pt too wide) in paragraph at lines 4845--4847
 []\EU1/TimesNewRoman(0)/m/n/10 Αφού το 3 δεν είναι 0, παίρνουμε το δεύτερο κλάδ
 ο και υπολογίζουμε το παραγοντικό του \EU1/lmtt/m/n/10 n-1\EU1/TimesNewRoman(0)
@@ -1343,15 +1406,30 @@ Overfull \hbox (8.02583pt too wide) in paragraph at lines 4845--4847
  []
 
 [62]
+
+LaTeX Warning: Reference `fig.stack3' on page 63 undefined on input line 4880.
+
 File: figs/stack3.pdf Graphic file (type QTm)
- <use  "figs/stack3.pdf" > [63] [64]
+<use  "figs/stack3.pdf" >
+
+LaTeX Warning: Reference `boolean' on page 63 undefined on input line 4918.
+
+[63] [64]
 Overfull \hbox (3.99457pt too wide) in paragraph at lines 5044--5047
 []\EU1/TimesNewRoman(0)/m/n/10 Αυτό το πρόγραμμα επιδεικνύει ένα πρότυπο το οπο
 ίο μερικές φορές ονομάζεται \EU1/TimesNewRoman(0)/bx/n/10 φύλακας \EU1/TimesNew
 Roman(0)/m/n/10 (guardian).
  []
 
+
+LaTeX Warning: Reference `raise' on page 65 undefined on input line 5048.
+
 [65]
+
+LaTeX Warning: Reference `incremental.development' on page 66 undefined on inpu
+t line 5083.
+
+
 Underfull \vbox (badness 5217) has occurred while \output is active []
 
  [66]
@@ -1360,6 +1438,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 5217--5226
  []
 
 [67]
+
+LaTeX Warning: Reference `strings' on page 68 undefined on input line 5253.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 5271--5273
 
  []
@@ -1371,14 +1453,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 5278--5286
 
 [68]
 Κεφάλαιο 7.
+
+LaTeX Warning: Reference `fig.assign2' on page 69 undefined on input line 5344.
+
+
 [69
 
 ]
 File: figs/assign2.pdf Graphic file (type QTm)
- <use  "figs/assign2.pdf" > [70]
+ <use  "figs/assign2.pdf" >
+
+LaTeX Warning: Reference `repetition' on page 70 undefined on input line 5441.
+
+[70]
 Underfull \hbox (badness 10000) in paragraph at lines 5518--5522
 
  []
+
+
+LaTeX Warning: Reference `recursion' on page 71 undefined on input line 5524.
 
 [71] [72] [73]
 Underfull \hbox (badness 10000) in paragraph at lines 5675--5678
@@ -1397,6 +1490,9 @@ Overfull \hbox (1.8982pt too wide) in paragraph at lines 5755--5757
 []\EU1/TimesNewRoman(0)/m/n/10 Επαναλαμβανόμενη εκτέλεση ενός συνόλου δηλώσεων 
 χρησιμοποιώντας είτε μία ανα-
  []
+
+
+LaTeX Warning: Reference `squareroot' on page 75 undefined on input line 5786.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5785--5789
@@ -1421,6 +1517,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 5965--5967
 Underfull \hbox (badness 10000) in paragraph at lines 6012--6015
 
  []
+
+
+LaTeX Warning: Reference `fig.banana' on page 79 undefined on input line 6043.
 
 File: figs/banana.pdf Graphic file (type QTm)
 <use  "figs/banana.pdf" > [79]
@@ -1476,14 +1575,25 @@ Overfull \hbox (82.38991pt too wide) in paragraph at lines 6281--6282
 d]])\EU1/TimesNewRoman(0)/m/it/10 ,
  []
 
-[82] [83] [84]
+[82] [83]
+
+LaTeX Warning: Reference `guardian' on page 84 undefined on input line 6390.
+
+[84]
+
+LaTeX Warning: Reference `fig.state4' on page 85 undefined on input line 6452.
+
 File: figs/state4.pdf Graphic file (type QTm)
- <use  "figs/state4.pdf" >
+<use  "figs/state4.pdf" >
 Underfull \hbox (badness 10000) in paragraph at lines 6463--6465
 
  []
 
 [85]
+
+LaTeX Warning: Reference `palindrome' on page 86 undefined on input line 6538.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 6538--6540
 
  []
@@ -1522,7 +1632,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 6726--6729
 
  []
 
-[91] [92] [93]
+
+LaTeX Warning: Reference `find' on page 91 undefined on input line 6759.
+
+[91] [92]
+
+LaTeX Warning: Reference `palindrome' on page 93 undefined on input line 6890.
+
+
+LaTeX Warning: Reference `isreverse' on page 93 undefined on input line 6917.
+
+[93]
 Overfull \hbox (17.07431pt too wide) in paragraph at lines 6982--6984
 []\EU1/TimesNewRoman(0)/m/it/10 Γράψτε ένα πρόγραμμα για να βρείτε αυτή τη λέξη
 . Λύση :[]$[][][][] [] [] [] [][][][][][][][][][][] [] [][][] [] [][][][] [] []
@@ -1552,8 +1672,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 7013--7016
 ]
 Κεφάλαιο 10.
 [97]
+
+LaTeX Warning: Reference `fig.liststate' on page 98 undefined on input line 712
+9.
+
 File: figs/liststate.pdf Graphic file (type QTm)
- <use  "figs/liststate.pdf" > [98] [99] [100] [101]
+<use  "figs/liststate.pdf" > [98] [99] [100] [101]
 Overfull \hbox (61.85622pt too wide) in paragraph at lines 7474--7475
 []\EU1/TimesNewRoman(0)/bx/n/10 Άσκηση 10.2. \EU1/TimesNewRoman(0)/m/it/10 Χρησ
 ιμοποιήστε την []\EU1/lmtt/m/n/10 capitalize_all \EU1/TimesNewRoman(0)/m/it/10 
@@ -1571,15 +1695,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 7571--7573
  []
 
 [103]
-File: figs/list1.pdf Graphic file (type QTm)
- <use  "figs/list1.pdf" >
-File: figs/list2.pdf Graphic file (type QTm)
- <use  "figs/list2.pdf" > [104]
-File: figs/list3.pdf Graphic file (type QTm)
 
+LaTeX Warning: Reference `fig.list1' on page 104 undefined on input line 7653.
+
+File: figs/list1.pdf Graphic file (type QTm)
+<use  "figs/list1.pdf" >
+
+LaTeX Warning: Reference `fig.list2' on page 104 undefined on input line 7689.
+
+File: figs/list2.pdf Graphic file (type QTm)
+<use  "figs/list2.pdf" > [104]
+
+LaTeX Warning: Reference `fig.list3' on page 105 undefined on input line 7724.
+
+File: figs/list3.pdf Graphic file (type QTm)
 <use  "figs/list3.pdf" > [105]
+
+LaTeX Warning: Reference `fig.stack5' on page 106 undefined on input line 7791.
+
+
 File: figs/stack5.pdf Graphic file (type QTm)
- <use  "figs/stack5.pdf" > [106]
+<use  "figs/stack5.pdf" > [106]
 Overfull \hbox (14.76768pt too wide) in paragraph at lines 7845--7847
 []\EU1/TimesNewRoman(0)/m/n/10 Αυτή η συνάρτηση αφήνει την αρχική λίστα αμετάβλ
 ητη. Αυτό είναι ένα παράδειγμα χρήσης της: 
@@ -1648,500 +1784,835 @@ Underfull \hbox (badness 10000) in paragraph at lines 8090--8092
 Κεφάλαιο 11.
 [111
 
-] [112] [113] [114] [115]
-File: figs/dict1.pdf Graphic file (type QTm)
- <use  "figs/dict1.pdf" > [116]
-File: figs/fibonacci.pdf Graphic file (type QTm)
+]
 
-<use  "figs/fibonacci.pdf" > [117] [118] [119] [120] [121]
-Overfull \hbox (14.39073pt too wide) in paragraph at lines 8789--8790
+LaTeX Warning: Reference `find' on page 112 undefined on input line 8216.
+
+
+LaTeX Warning: Reference `wordlist1' on page 112 undefined on input line 8228.
+
+[112]
+Underfull \hbox (badness 10000) in paragraph at lines 8282--8284
+
+ []
+
+[113]
+Underfull \hbox (badness 10000) in paragraph at lines 8330--8332
+
+ []
+
+[114]
+Underfull \hbox (badness 10000) in paragraph at lines 8406--8408
+
+ []
+
+[115]
+File: figs/dict1.pdf Graphic file (type QTm)
+ <use  "figs/dict1.pdf" >
+
+LaTeX Warning: Reference `fig.dict1' on page 116 undefined on input line 8456.
+
+
+Overfull \hbox (5.95746pt too wide) in paragraph at lines 8478--8480
+[]\EU1/TimesNewRoman(0)/bx/n/10 Συνάρτηση κατακερματισμού \EU1/TimesNewRoman(0)
+/m/n/10 (hash function) είναι μία συνάρτηση η οποία παίρνει μία τιμή (οποιου-
+ []
+
+[116]
+Underfull \hbox (badness 10000) in paragraph at lines 8485--8487
+
+ []
+
+
+LaTeX Warning: Reference `one.more.example' on page 117 undefined on input line
+ 8498.
+
+
+LaTeX Warning: Reference `fig.fibonacci' on page 117 undefined on input line 85
+02.
+
+File: figs/fibonacci.pdf Graphic file (type QTm)
+<use  "figs/fibonacci.pdf" > [117]
+Underfull \hbox (badness 10000) in paragraph at lines 8535--8537
+
+ []
+
+
+LaTeX Warning: Reference `ackermann' on page 118 undefined on input line 8545.
+
+[118] [119]
+Underfull \hbox (badness 10000) in paragraph at lines 8674--8676
+
+ []
+
+[120]
+
+LaTeX Warning: Reference `factdebug' on page 121 undefined on input line 8708.
+
+[121]
+
+LaTeX Warning: Reference `duplicate' on page 122 undefined on input line 8785.
+
+
+Overfull \hbox (14.39073pt too wide) in paragraph at lines 8787--8789
 []\EU1/TimesNewRoman(0)/m/it/10 Χρησιμοποιήστε ένα λεξικό για να γράψετε μία πι
 ο γρήγορη και απλούστερη έκδοση της []\EU1/lmtt/m/n/10 has_duplicates\EU1/Times
 NewRoman(0)/m/it/10 .
  []
 
 
-Overfull \hbox (6.85359pt too wide) in paragraph at lines 8826--8827
+Underfull \hbox (badness 10000) in paragraph at lines 8787--8789
+
+ []
+
+
+LaTeX Warning: Reference `exrotate' on page 122 undefined on input line 8797.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8799--8801
+
+ []
+
+
+LaTeX Warning: Reference `wordlist2' on page 122 undefined on input line 8822.
+
+
+Overfull \hbox (6.85359pt too wide) in paragraph at lines 8824--8825
 \EU1/TimesNewRoman(0)/m/it/10 Μπορείτε να το κατεβάσετε από το σύνδεσμο []$[][]
 [][] [] [] [] [][][] [] [][][][][][] [] [][] [] [][][] [] [][][] [] [][][][][][
 ][][] [] [][][][][][][]$[]
  []
 
-[122]
+[122] [123] [124
+
+]
 Κεφάλαιο 12.
 
-Overfull \hbox (1.12674pt too wide) in paragraph at lines 8888--8889
+Overfull \hbox (1.12674pt too wide) in paragraph at lines 8885--8886
 \EU1/TimesNewRoman(0)/m/n/10 Αν το όρισμα είναι μία ακολουθία (συμβολοσειρά, λί
 στα ή πλειάδα), το αποτέλεσμα είναι μία πλειάδα
  []
 
-[123
+[125] [126] [127] [128] [129]
 
-] [124] [125] [126] [127]
+LaTeX Warning: Reference `fig.tuple1' on page 130 undefined on input line 9270.
+
+
 File: figs/tuple1.pdf Graphic file (type QTm)
- <use  "figs/tuple1.pdf" >
-File: figs/dict2.pdf Graphic file (type QTm)
+<use  "figs/tuple1.pdf" >
 
-<use  "figs/dict2.pdf" > [128] [129]
-Overfull \hbox (4.50888pt too wide) in paragraph at lines 9374--9375
+LaTeX Warning: Reference `fig.dict2' on page 130 undefined on input line 9281.
+
+File: figs/dict2.pdf Graphic file (type QTm)
+<use  "figs/dict2.pdf" > [130] [131]
+Overfull \hbox (4.50888pt too wide) in paragraph at lines 9371--9372
 \EU1/TimesNewRoman(0)/m/n/10 αρίθμηση των δυνατών συνδυασμών, είναι ευκολότερο 
 να μιλάμε για ακολουθίες ακολουθιών. 
  []
 
 
-Overfull \hbox (6.26442pt too wide) in paragraph at lines 9397--9402
+Overfull \hbox (6.26442pt too wide) in paragraph at lines 9394--9399
 \EU1/TimesNewRoman(0)/m/n/10 τροποποιούν ήδη υπάρχουσες λίστες. Αλλά η Python π
 αρέχει ενσωματωμένες τις συναρτήσεις \EU1/lmtt/m/n/10 sorted
  []
 
-[130]
-Overfull \hbox (10.10231pt too wide) in paragraph at lines 9462--9463
+[132]
+Overfull \hbox (10.10231pt too wide) in paragraph at lines 9459--9460
 \EU1/TimesNewRoman(0)/m/n/10 Αν αντιμετωπίζετε προβλήματα στην παρακολούθηση τω
 ν δομών δεδομένων σας, τότε η \EU1/lmtt/m/n/10 structshape
  []
 
-[131] [132] [133] [134
+[133]
+
+LaTeX Warning: Reference `wordlist' on page 134 undefined on input line 9514.
+
+[134] [135] [136
 
 ]
 Κεφάλαιο 13.
-[135] [136] [137]
-Overfull \hbox (5.9446pt too wide) in paragraph at lines 9810--9811
+
+LaTeX Warning: Reference `wordlist' on page 137 undefined on input line 9658.
+
+[137]
+
+LaTeX Warning: Reference `histogram' on page 138 undefined on input line 9718.
+
+[138] [139]
+Overfull \hbox (5.9446pt too wide) in paragraph at lines 9807--9808
 []\EU1/TimesNewRoman(0)/m/n/10 Για να βρούμε τις συνηθέστερες λέξεις, μπορούμε 
 να εφαρμόσουμε το πρότυπο DSU. Η []\EU1/lmtt/m/n/10 most_common
  []
 
-[138] [139] [140]
-Underfull \hbox (badness 10000) in paragraph at lines 9995--10004
+[140] [141]
+
+LaTeX Warning: Reference `cumulative' on page 142 undefined on input line 9964.
+
+
+
+LaTeX Warning: Reference `bisection' on page 142 undefined on input line 9966.
+
+[142]
+Underfull \hbox (badness 10000) in paragraph at lines 9992--10001
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9995--10004
+Underfull \hbox (badness 10000) in paragraph at lines 9992--10001
 
  []
 
-[141] [142] [143] [144]
-Overfull \hbox (1.25772pt too wide) in paragraph at lines 10197--10199
+[143] [144]
+
+LaTeX Warning: Reference `randhist' on page 145 undefined on input line 10103.
+
+[145] [146]
+Overfull \hbox (1.25772pt too wide) in paragraph at lines 10194--10196
 []\EU1/TimesNewRoman(0)/m/n/10 Η διαδικασία της επιλογής μεταξύ δομών δεδομένων
  εφαρμόζοντας εναλ-
  []
 
-[145] [146
+[147] [148
 
 ]
 Κεφάλαιο 14.
-[147] [148]
-Overfull \hbox (30.8528pt too wide) in paragraph at lines 10412--10415
+
+LaTeX Warning: Reference `wordlist' on page 149 undefined on input line 10261.
+
+[149] [150]
+Overfull \hbox (30.8528pt too wide) in paragraph at lines 10409--10412
 \EU1/TimesNewRoman(0)/m/n/10 Η \EU1/lmtt/m/n/10 cwd \EU1/TimesNewRoman(0)/m/n/1
 0 σημαίνει “current working directory”. Το αποτέλεσμα σε αυτό το παράδειγμα είν
 αι \EU1/lmtt/m/n/10 /home/dinsdale\EU1/TimesNewRoman(0)/m/n/10 ,
  []
 
-[149]
-Overfull \hbox (16.74261pt too wide) in paragraph at lines 10517--10521
+[151]
+Overfull \hbox (16.74261pt too wide) in paragraph at lines 10514--10518
 \EU1/TimesNewRoman(0)/m/n/10 Για να αποφύγετε αυτά τα σφάλματα, μπορείτε να χρη
 σιμοποιείτε συναρτήσεις όπως η \EU1/lmtt/m/n/10 os.path.exists
  []
 
-[150]
-Overfull \hbox (18.47212pt too wide) in paragraph at lines 10534--10535
+[152]
+Overfull \hbox (18.47212pt too wide) in paragraph at lines 10531--10532
 \EU1/lmtt/m/n/10 except \EU1/TimesNewRoman(0)/m/n/10 και προχωράει. Αν προκύψει
  μία εξαίρεση, πηδά έξω από την \EU1/lmtt/m/n/10 try \EU1/TimesNewRoman(0)/m/n/
 10 και εκτελεί την \EU1/lmtt/m/n/10 except\EU1/TimesNewRoman(0)/m/n/10 . 
  []
 
-[151]
-Overfull \hbox (15.23318pt too wide) in paragraph at lines 10665--10666
+[153]
+
+LaTeX Warning: Reference `anagrams' on page 154 undefined on input line 10662.
+
+
+Overfull \hbox (7.73318pt too wide) in paragraph at lines 10662--10663
 []\EU1/TimesNewRoman(0)/bx/n/10 Άσκηση 14.3. \EU1/TimesNewRoman(0)/m/it/10 Αν κ
-ατεβάσετε τη λύση μου για την Άσκηση  []12.4[] από το σύνδεσμο []$[][][][] [] [
-] [] [][][][][][][][][][][] []
+ατεβάσετε τη λύση μου για την Άσκηση  [] από το σύνδεσμο []$[][][][] [] [] [] [
+][][][][][][][][][][] []
  []
 
-[152] [153] [154] [155]
-Overfull \hbox (6.15018pt too wide) in paragraph at lines 10932--10936
+[154] [155] [156] [157]
+Overfull \hbox (6.15018pt too wide) in paragraph at lines 10929--10933
 []\EU1/TimesNewRoman(0)/m/it/10 Τρέξτε αυτόν τον κώδικα και ακολουθήστε τις οδη
 γίες που θα δείτε εκεί. Λύση : []$[][][][] [] [] [] [][][][][][][][][][][] []
  []
 
-[156]
+[158]
 Κεφάλαιο 15.
 
-Overfull \hbox (16.4708pt too wide) in paragraph at lines 11010--11013
+Overfull \hbox (16.4708pt too wide) in paragraph at lines 11007--11010
 []\EU1/TimesNewRoman(0)/m/n/10 Τα παραδείγματα κώδικα αυτού του κεφαλαίου είναι
  διαθέσιμα στην διεύθυνση []$[][][][] [] [] [] [][][][][][][][][][][] []
  []
 
-[157
+[159
 
 ]
+
+LaTeX Warning: Reference `fig.point' on page 160 undefined on input line 11105.
+
+
 File: figs/point.pdf Graphic file (type QTm)
- <use  "figs/point.pdf" > [158] [159]
+<use  "figs/point.pdf" > [160] [161]
 File: figs/rectangle.pdf Graphic file (type QTm)
  <use  "figs/rectangle.pdf" >
-[160] [161]
+
+LaTeX Warning: Reference `fig.rectangle' on page 162 undefined on input line 11
+226.
+
+[162] [163]
 File: figs/rectangle2.pdf Graphic file (type QTm)
  <use  "figs/rectangle2.pdf" >
+
+LaTeX Warning: Reference `fig.rectangle2' on page 164 undefined on input line 1
+1364.
+
+
 Underfull \vbox (badness 4060) has occurred while \output is active []
 
- [162]
-[163] [164] [165] [166
+ [164]
+
+LaTeX Warning: Reference `turtlechap' on page 165 undefined on input line 11491
+.
+
+[165] [166] [167] [168
 
 ]
 Κεφάλαιο 16.
+
+LaTeX Warning: Reference `fig.time' on page 169 undefined on input line 11617.
+
 File: figs/time.pdf Graphic file (type QTm)
 <use  "figs/time.pdf" >
 Underfull \vbox (badness 2781) has occurred while \output is active []
 
- [167]
-[168] [169]
-Overfull \hbox (0.28363pt too wide) in paragraph at lines 11787--11788
+ [169]
+[170] [171]
+Overfull \hbox (0.28363pt too wide) in paragraph at lines 11784--11785
 \EU1/TimesNewRoman(0)/m/n/10 ασκόπως περίπλοκος (αφού θα εξετάζει πολλές ειδικέ
 ς περιπτώσεις) και αναξιόπιστος (από τη στιγμή
  []
 
-[170]
-Overfull \hbox (34.55577pt too wide) in paragraph at lines 11821--11823
+[172]
+Overfull \hbox (34.55577pt too wide) in paragraph at lines 11818--11820
 []\EU1/TimesNewRoman(0)/m/n/10 Αφού πειστείτε ότι είναι σωστές, μπορείτε να τις
  χρησιμοποιήσετε για να ξαναγράψετε την []\EU1/lmtt/m/n/10 add_time\EU1/TimesNe
 wRoman(0)/m/n/10 : 
  []
 
-[171]
-Overfull \hbox (9.81064pt too wide) in paragraph at lines 11930--11933
+[173]
+Overfull \hbox (9.81064pt too wide) in paragraph at lines 11927--11930
 []\EU1/TimesNewRoman(0)/m/n/10 Τα παραδείγματα κώδικα αυτού του κεφαλαίου είναι
  διαθέσιμα στο σύνδεσμο []$[][][][] [] [] [] [][][][][][][][][][][] []
  []
 
-[172] [173] [174
+[174] [175] [176
 
 ]
 Κεφάλαιο 17.
-[175]
-Overfull \hbox (9.82695pt too wide) in paragraph at lines 12088--12089
+
+LaTeX Warning: Reference `time' on page 177 undefined on input line 12012.
+
+[177]
+
+LaTeX Warning: Reference `time' on page 178 undefined on input line 12043.
+
+
+LaTeX Warning: Reference `ex.printtime' on page 178 undefined on input line 120
+43.
+
+
+Overfull \hbox (9.82695pt too wide) in paragraph at lines 12085--12086
 \EU1/TimesNewRoman(0)/m/n/10 Σε αυτήν την χρήση του συμβολισμού με τελεία, το \
 EU1/lmtt/m/n/10 Time \EU1/TimesNewRoman(0)/m/n/10 είναι το όνομα της κλάσης και
  το []\EU1/lmtt/m/n/10 print_time
  []
 
-[176] [177]
-Overfull \hbox (11.40508pt too wide) in paragraph at lines 12202--12204
+[178]
+
+LaTeX Warning: Reference `prototype' on page 179 undefined on input line 12131.
+
+
+
+Overfull \hbox (24.83572pt too wide) in paragraph at lines 12131--12132
+[]\EU1/TimesNewRoman(0)/bx/n/10 Άσκηση 17.1. \EU1/TimesNewRoman(0)/m/it/10 Ξανα
+γράψτε την []\EU1/lmtt/m/n/10 time_to_int \EU1/TimesNewRoman(0)/m/it/10 ( από τ
+ην Ενότητα  []) σαν μέθοδο. Πιθανόν η []\EU1/lmtt/m/n/10 int_to_time
+ []
+
+
+LaTeX Warning: Reference `increment' on page 179 undefined on input line 12139.
+
+
+
+LaTeX Warning: Reference `convert' on page 179 undefined on input line 12149.
+
+[179]
+
+LaTeX Warning: Reference `isafter' on page 180 undefined on input line 12180.
+
+
+Overfull \hbox (11.40508pt too wide) in paragraph at lines 12199--12201
 \EU1/TimesNewRoman(0)/m/n/10 Το καλό με αυτήν τη σύνταξη είναι ότι διαβάζεται σ
 χεδόν όπως στα Αγγλικά : “end is after start?” 
  []
 
-[178] [179]
-Overfull \hbox (2.16937pt too wide) in paragraph at lines 12385--12386
+[180] [181]
+Overfull \hbox (2.16937pt too wide) in paragraph at lines 12382--12383
 []\EU1/TimesNewRoman(0)/m/n/10 Αυτά είναι κάποια παραδείγματα που χρησιμοποιούν
  τον τελεστή \EU1/lmtt/m/n/10 + \EU1/TimesNewRoman(0)/m/n/10 με διαφορετικούς τ
 ύπους : 
  []
 
-[180] [181]
-Overfull \hbox (1.95518pt too wide) in paragraph at lines 12524--12525
+[182]
+
+LaTeX Warning: Reference `histogram' on page 183 undefined on input line 12454.
+
+
+[183]
+
+LaTeX Warning: Reference `hasattr' on page 184 undefined on input line 12507.
+
+
+Overfull \hbox (1.95518pt too wide) in paragraph at lines 12521--12522
 \EU1/TimesNewRoman(0)/m/n/10 Ίσως σας φανεί χρήσιμο, για λόγους αποσφαλμάτωσης,
  να έχετε αυτήν τη συνάρτηση εύχερη : 
  []
 
-[182] [183]
-Overfull \hbox (13.80937pt too wide) in paragraph at lines 12653--12655
+[184] [185]
+Overfull \hbox (13.80937pt too wide) in paragraph at lines 12650--12652
 []\EU1/TimesNewRoman(0)/m/it/10 Μία []\EU1/lmtt/m/n/10 __str__ \EU1/TimesNewRom
 an(0)/m/it/10 η οποία θα επιστρέφει μία συμβολοσειρά αναπαράστασης του αντικειμ
 ένου Kangaroo
  []
 
-[184] [185] [186
+[186] [187] [188
 
 ]
 Κεφάλαιο 18.
 
-Overfull \hbox (5.5001pt too wide) in paragraph at lines 12787--12789
+Overfull \hbox (5.5001pt too wide) in paragraph at lines 12784--12786
 []\EU1/TimesNewRoman(0)/m/n/10 Για παράδειγμα, αυτός ο πίνακας δείχνει τα χρώμα
 τα και τους αντίστοιχους κώδικες ακεραίων : 
  []
 
-[187] [188]
+[189] [190]
 File: figs/card1.pdf Graphic file (type QTm)
- <use  "figs/card1.pdf" > [189] [190] [191]
-Overfull \hbox (0.85426pt too wide) in paragraph at lines 13103--13104
+ <use  "figs/card1.pdf" >
+
+LaTeX Warning: Reference `fig.card1' on page 191 undefined on input line 12901.
+
+
+[191] [192] [193]
+Overfull \hbox (0.85426pt too wide) in paragraph at lines 13100--13101
 []\EU1/TimesNewRoman(0)/m/n/10 Για να προσθέσουμε ένα φύλλο, μπορούμε να χρησιμ
 οποιήσουμε την μέθοδο λιστών \EU1/lmtt/m/n/10 append\EU1/TimesNewRoman(0)/m/n/1
 0 : 
  []
 
 
-Overfull \hbox (7.38974pt too wide) in paragraph at lines 13175--13176
+Overfull \hbox (7.38974pt too wide) in paragraph at lines 13172--13173
 []\EU1/TimesNewRoman(0)/m/n/10 Αυτή η σχέση μεταξύ κλάσεων (όμοιες αλλά διαφορε
 τικές) προσφέρεται για κληρονομικότητα. 
  []
 
-[192]
-Overfull \hbox (8.87381pt too wide) in paragraph at lines 13199--13201
+[194]
+Overfull \hbox (8.87381pt too wide) in paragraph at lines 13196--13198
 []\EU1/TimesNewRoman(0)/m/n/10 Αν παράσχουμε μία μέθοδο init στην κλάση \EU1/lm
 tt/m/n/10 Hand\EU1/TimesNewRoman(0)/m/n/10 , τότε θα υπερισχύσει αυτής στην κλά
 ση \EU1/lmtt/m/n/10 Deck\EU1/TimesNewRoman(0)/m/n/10 : 
  []
 
-[193]
+[195]
+
+LaTeX Warning: Reference `fig.class1' on page 196 undefined on input line 13305
+.
+
 File: figs/class1.pdf Graphic file (type QTm)
- <use  "figs/class1.pdf" > [194] [195]
-Overfull \hbox (46.2182pt too wide) in paragraph at lines 13448--13450
+<use  "figs/class1.pdf" > [196] [197]
+
+LaTeX Warning: Reference `time' on page 198 undefined on input line 13408.
+
+
+LaTeX Warning: Reference `markov' on page 198 undefined on input line 13422.
+
+
+Overfull \hbox (46.2182pt too wide) in paragraph at lines 13445--13447
 []\EU1/TimesNewRoman(0)/m/n/10 Στη συνέχεια, μετατρέπουμε τις συναρτήσεις σε με
 θόδους. Για παράδειγμα, αυτή είναι η []\EU1/lmtt/m/n/10 process_word\EU1/TimesN
 ewRoman(0)/m/n/10 : 
  []
 
-[196]
-Overfull \hbox (10.35199pt too wide) in paragraph at lines 13490--13493
-\EU1/TimesNewRoman(0)/m/it/10 καθολικές μεταβλητές σαν ιδιότητες μίας νέας κλάσ
-ης με όνομα \EU1/lmtt/m/n/10 Markov\EU1/TimesNewRoman(0)/m/it/10 . Λύση : []$[]
-[][][] [] [] [] [][][][][][][][][][][] []
- []
 
-[197]
-Overfull \hbox (15.83574pt too wide) in paragraph at lines 13619--13623
+LaTeX Warning: Reference `refactoring' on page 198 undefined on input line 1346
+3.
+
+[198]
+
+LaTeX Warning: Reference `markov' on page 199 undefined on input line 13487.
+
+[199]
+Overfull \hbox (15.83574pt too wide) in paragraph at lines 13616--13620
 \EU1/TimesNewRoman(0)/m/it/10 υπολογίσετε τις πιθανότητες των διαφόρων χεριών. 
 Γράψτε μία συνάρτηση μέσα στο \EU1/lmtt/m/n/10 PokerHand.py
  []
 
-[198] [199] [200
+
+LaTeX Warning: Reference `turtlechap' on page 200 undefined on input line 13638
+.
+
+[200] [201] [202
 
 ]
 Κεφάλαιο 19.
-[201]
-Overfull \hbox (13.81879pt too wide) in paragraph at lines 13841--13843
+[203]
+Overfull \hbox (13.81879pt too wide) in paragraph at lines 13838--13840
 \EU1/TimesNewRoman(0)/m/n/10 Τώρα μπορούμε να δημιουργήσουμε ένα κουμπί με αυτή
 ν την συνάρτηση ως εντολή (command): 
  []
 
-[202] [203] [204]
-Overfull \hbox (5.337pt too wide) in paragraph at lines 14037--14039
+[204]
+
+LaTeX Warning: Reference `canvas' on page 205 undefined on input line 13882.
+
+[205] [206]
+Overfull \hbox (5.337pt too wide) in paragraph at lines 14034--14036
 \EU1/TimesNewRoman(0)/m/n/10 Η \EU1/lmtt/m/n/10 END \EU1/TimesNewRoman(0)/m/n/1
 0 είναι ένας ειδικός δείκτης ο οποίος υποδεικνύει τον τελευταίο χαρακτήρα μέσα 
 στο Text. 
  []
 
+
+LaTeX Warning: Reference `circle' on page 207 undefined on input line 14067.
+
+
+LaTeX Warning: Reference `fig.turtleworld' on page 207 undefined on input line 
+14085.
+
+
+LaTeX Warning: Reference `turtlechap' on page 207 undefined on input line 14086
+.
+
 File: figs/TurtleWorld.pdf Graphic file (type QTm)
 <use  "figs/TurtleWorld.pdf" >
-Overfull \hbox (6.57497pt too wide) in paragraph at lines 14098--14100
+Overfull \hbox (6.57497pt too wide) in paragraph at lines 14095--14097
 \EU1/TimesNewRoman(0)/m/n/10 σειρά βημάτων. Μπορείτε να κατεβάσετε ολόκληρο το 
 παράδειγμα από εδώ : []$[][][][] [] [] [] [][][][][][][][][][][] []
  []
 
-[205] [206] [207]
+[207] [208] [209]
 Underfull \vbox (badness 1383) has occurred while \output is active []
 
- [208]
-[209] [210]
-Overfull \hbox (1.06003pt too wide) in paragraph at lines 14477--14479
+ [210]
+[211] [212]
+
+LaTeX Warning: Reference `circle2' on page 213 undefined on input line 14459.
+
+
+Overfull \hbox (1.06003pt too wide) in paragraph at lines 14474--14476
 []\EU1/TimesNewRoman(0)/m/n/10 Για κάθε ζευγάρι κατάστασης-συμβάντος, ποιο είνα
 ι το επιθυμητό αποτέλεσμα ; Από τη στιγμή
  []
 
-[211] [212]
-Overfull \hbox (5.40994pt too wide) in paragraph at lines 14601--14603
+[213] [214]
+Overfull \hbox (5.40994pt too wide) in paragraph at lines 14598--14600
 []\EU1/TimesNewRoman(0)/m/it/10 Κατεβάστε τα []\EU1/lmtt/m/n/10 image_demo.py\E
 U1/TimesNewRoman(0)/m/it/10 , []\EU1/lmtt/m/n/10 danger.gif \EU1/TimesNewRoman(
 0)/m/it/10 και []\EU1/lmtt/m/n/10 allen.png \EU1/TimesNewRoman(0)/m/it/10 από ε
 δώ []$[][][][] [] [] [] [][][][][][][][][][][] []
  []
 
-[213] [214]
+[215]
+
+LaTeX Warning: Reference `urllib' on page 216 undefined on input line 14662.
+
+[216]
 Παράρτημα \MakeUppercase {α\anw@true \anw@print \relax }.
-LaTeX Info: Redefining \anw@print on input line 14681.
-LaTeX Info: Redefining \anw@print on input line 14720.
-[215
+LaTeX Info: Redefining \anw@print on input line 14678.
+LaTeX Info: Redefining \anw@print on input line 14717.
+[217
 
 ]
-LaTeX Info: Redefining \anw@print on input line 14783.
-LaTeX Info: Redefining \anw@print on input line 14814.
- [216]
-LaTeX Info: Redefining \anw@print on input line 14820.
-LaTeX Info: Redefining \anw@print on input line 14826.
-LaTeX Info: Redefining \anw@print on input line 14838.
-LaTeX Info: Redefining \anw@print on input line 14877.
- [217]
-LaTeX Info: Redefining \anw@print on input line 14922.
-LaTeX Info: Redefining \anw@print on input line 14932.
+LaTeX Info: Redefining \anw@print on input line 14780.
+LaTeX Info: Redefining \anw@print on input line 14811.
  [218]
-LaTeX Info: Redefining \anw@print on input line 14990.
-LaTeX Info: Redefining \anw@print on input line 15002.
+LaTeX Info: Redefining \anw@print on input line 14817.
+LaTeX Info: Redefining \anw@print on input line 14823.
+LaTeX Info: Redefining \anw@print on input line 14835.
+LaTeX Info: Redefining \anw@print on input line 14874.
  [219]
-LaTeX Info: Redefining \anw@print on input line 15014.
-LaTeX Info: Redefining \anw@print on input line 15027.
-LaTeX Info: Redefining \anw@print on input line 15048.
+LaTeX Info: Redefining \anw@print on input line 14919.
+LaTeX Info: Redefining \anw@print on input line 14929.
  [220]
-LaTeX Info: Redefining \anw@print on input line 15055.
+LaTeX Info: Redefining \anw@print on input line 14987.
+LaTeX Info: Redefining \anw@print on input line 14999.
+ [221]
+LaTeX Info: Redefining \anw@print on input line 15011.
+LaTeX Info: Redefining \anw@print on input line 15024.
+LaTeX Info: Redefining \anw@print on input line 15045.
+ [222]
+LaTeX Info: Redefining \anw@print on input line 15052.
 
-Overfull \hbox (5.09314pt too wide) in paragraph at lines 15055--15055
+Overfull \hbox (5.09314pt too wide) in paragraph at lines 15052--15052
 []\EU1/TimesNewRoman(0)/bx/n/12 Έχω μία μεγάλη έκφραση η οποία δεν κάνει αυτό π
 ου θα περίμενα. 
  []
 
-LaTeX Info: Redefining \anw@print on input line 15100.
-LaTeX Info: Redefining \anw@print on input line 15105.
-[221]
-LaTeX Info: Redefining \anw@print on input line 15122.
-LaTeX Info: Redefining \anw@print on input line 15157.
-LaTeX Info: Redefining \anw@print on input line 15176.
- [222]
-LaTeX Info: Redefining \anw@print on input line 15188.
- [223]
-LaTeX Info: Redefining \anw@print on input line 15188.
- [224
+LaTeX Info: Redefining \anw@print on input line 15097.
+LaTeX Info: Redefining \anw@print on input line 15102.
+[223]
+LaTeX Info: Redefining \anw@print on input line 15119.
+LaTeX Info: Redefining \anw@print on input line 15154.
+LaTeX Info: Redefining \anw@print on input line 15173.
+ [224]
+LaTeX Info: Redefining \anw@print on input line 15185.
+ [225]
+LaTeX Info: Redefining \anw@print on input line 15185.
+ [226
 
 ]
 Παράρτημα \MakeUppercase {β\anw@true \anw@print \relax }.
-LaTeX Info: Redefining \anw@print on input line 15188.
+LaTeX Info: Redefining \anw@print on input line 15185.
 
-Overfull \hbox (24.2176pt too wide) in paragraph at lines 15191--15193
+Overfull \hbox (24.2176pt too wide) in paragraph at lines 15188--15190
 []\EU1/TimesNewRoman(0)/m/n/10 Αυτό το παράρτημα αποτελεί ένα τροποποιημένο από
 σπασμα από το βιβλίο \EU1/TimesNewRoman(0)/m/it/10 Think Complexity\EU1/TimesNe
 wRoman(0)/m/n/10 ,
  []
 
-[225]
-Overfull \hbox (8.94737pt too wide) in paragraph at lines 15240--15242
+[227]
+Overfull \hbox (8.94737pt too wide) in paragraph at lines 15237--15239
 []\EU1/TimesNewRoman(0)/m/n/10 Αυτού του είδους η ανάλυση έχει κάποιους περιορι
 σμούς, αλλά θα φτάσουμε σε αυτό αργότερα. 
  []
 
-LaTeX Info: Redefining \anw@print on input line 15245.
-LaTeX Info: Redefining \anw@print on input line 15285.
-[226]
-LaTeX Info: Redefining \anw@print on input line 15328.
-LaTeX Info: Redefining \anw@print on input line 15361.
- [227]
-LaTeX Info: Redefining \anw@print on input line 15361.
-LaTeX Info: Redefining \anw@print on input line 15414.
- [228]
-LaTeX Info: Redefining \anw@print on input line 15443.
-LaTeX Info: Redefining \anw@print on input line 15448.
+LaTeX Info: Redefining \anw@print on input line 15242.
+LaTeX Info: Redefining \anw@print on input line 15282.
+[228]
+LaTeX Info: Redefining \anw@print on input line 15325.
+LaTeX Info: Redefining \anw@print on input line 15358.
+ [229]
+LaTeX Info: Redefining \anw@print on input line 15358.
+LaTeX Info: Redefining \anw@print on input line 15411.
+ [230]
 
-Overfull \hbox (5.79565pt too wide) in paragraph at lines 15449--15453
+LaTeX Warning: Reference `hashtable' on page 231 undefined on input line 15440.
+
+
+LaTeX Info: Redefining \anw@print on input line 15445.
+
+Overfull \hbox (5.79565pt too wide) in paragraph at lines 15446--15450
 []\EU1/TimesNewRoman(0)/bx/n/10 Άσκηση Βʹ.2. \EU1/TimesNewRoman(0)/m/it/10 Διαβ
 άστε στην Wikipedia για τους αλγόριθμους ταξινόμησης ([]$[][][][] [] [] [] [][]
  [] [][][][][][][][][] []
  []
 
-LaTeX Info: Redefining \anw@print on input line 15487.
-LaTeX Info: Redefining \anw@print on input line 15506.
-[229]
-LaTeX Info: Redefining \anw@print on input line 15512.
-LaTeX Info: Redefining \anw@print on input line 15533.
-LaTeX Info: Redefining \anw@print on input line 15573.
- [230]
-Overfull \hbox (5.41776pt too wide) in paragraph at lines 15586--15588
+LaTeX Info: Redefining \anw@print on input line 15484.
+LaTeX Info: Redefining \anw@print on input line 15503.
+[231]
+LaTeX Info: Redefining \anw@print on input line 15509.
+LaTeX Info: Redefining \anw@print on input line 15530.
+LaTeX Info: Redefining \anw@print on input line 15570.
+ [232]
+Overfull \hbox (5.41776pt too wide) in paragraph at lines 15583--15585
 []\EU1/TimesNewRoman(0)/m/n/10 Ένας τρόπος για να βελτιώσουμε την \EU1/lmtt/m/n
 /10 LinearMap \EU1/TimesNewRoman(0)/m/n/10 είναι να σπάσουμε τη λίστα των ζευγα
 ριών κλειδιού-
  []
 
-LaTeX Info: Redefining \anw@print on input line 15620.
-[231]
-LaTeX Info: Redefining \anw@print on input line 15677.
- [232]
-LaTeX Info: Redefining \anw@print on input line 15700.
-File: figs/towers.pdf Graphic file (type QTm)
- <use  "figs/towers.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15706.
-LaTeX Info: Redefining \anw@print on input line 15712.
- [233]
-LaTeX Info: Redefining \anw@print on input line 15723.
+LaTeX Info: Redefining \anw@print on input line 15617.
+[233]
+LaTeX Info: Redefining \anw@print on input line 15674.
  [234]
+
+LaTeX Warning: Reference `fig.hash' on page 235 undefined on input line 15697.
+
+File: figs/towers.pdf Graphic file (type QTm)
+<use  "figs/towers.pdf" >
+LaTeX Info: Redefining \anw@print on input line 15703.
+LaTeX Info: Redefining \anw@print on input line 15709.
+ [235]
+LaTeX Info: Redefining \anw@print on input line 15720.
+ [236]
 Παράρτημα \MakeUppercase {γ\anw@true \anw@print \relax }.
-LaTeX Info: Redefining \anw@print on input line 15723.
-[235
+LaTeX Info: Redefining \anw@print on input line 15720.
+
+LaTeX Warning: Reference `variables' on page 237 undefined on input line 15727.
+
+
+
+LaTeX Warning: Reference `stackdiagram' on page 237 undefined on input line 157
+27.
+
+
+LaTeX Warning: Reference `recursive.stack' on page 237 undefined on input line 
+15728.
+
+
+LaTeX Warning: Reference `more.recursion' on page 237 undefined on input line 1
+5729.
+
+
+LaTeX Warning: Reference `mutable' on page 237 undefined on input line 15733.
+
+
+LaTeX Warning: Reference `invert' on page 237 undefined on input line 15734.
+
+
+LaTeX Warning: Reference `dictuple' on page 237 undefined on input line 15734.
+
+
+LaTeX Warning: Reference `attributes' on page 237 undefined on input line 15737
+.
+
+
+LaTeX Warning: Reference `rectangles' on page 237 undefined on input line 15738
+.
+
+
+LaTeX Warning: Reference `time.object' on page 237 undefined on input line 1573
+8.
+
+
+LaTeX Warning: Reference `class.attribute' on page 237 undefined on input line 
+15739.
+
+
+LaTeX Warning: Reference `class.diagram' on page 237 undefined on input line 15
+743.
+
+
+LaTeX Warning: Reference `turtlechap' on page 237 undefined on input line 15757
+.
+
+
+LaTeX Warning: Reference `tkinter' on page 237 undefined on input line 15757.
+
+
+LaTeX Warning: Reference `canvas' on page 237 undefined on input line 15757.
+
+[237
 
 ]
-LaTeX Info: Redefining \anw@print on input line 15768.
+LaTeX Info: Redefining \anw@print on input line 15765.
 File: figs/lumpydemo1.pdf Graphic file (type QTm)
  <use  "figs/lumpydemo1.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15773.
-LaTeX Info: Redefining \anw@print on input line 15806.
+LaTeX Info: Redefining \anw@print on input line 15770.
 
-Overfull \hbox (0.28264pt too wide) in paragraph at lines 15816--15819
+
+LaTeX Warning: Reference `fig.lumpy1' on page 238 undefined on input line 15803
+.
+
+
+Overfull \hbox (0.28264pt too wide) in paragraph at lines 15813--15816
 []\EU1/TimesNewRoman(0)/m/n/10 Μπορείτε να κατεβάσετε αυτό το παράδειγμα από εδ
 ώ : []$[][][][] [] [] [] [][][][][][][][][][][] [] [][][] [] [][][][] [] [][][]
 [][] []
  []
 
-LaTeX Info: Redefining \anw@print on input line 15822.
+LaTeX Info: Redefining \anw@print on input line 15819.
 File: figs/lumpydemo2.pdf Graphic file (type QTm)
 <use  "figs/lumpydemo2.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15827.
-LaTeX Info: Redefining \anw@print on input line 15829.
- [236]
-LaTeX Info: Redefining \anw@print on input line 15852.
-LaTeX Info: Redefining \anw@print on input line 15867.
-File: figs/lumpydemo3.pdf Graphic file (type QTm)
- <use  "figs/lumpydemo3.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15872.
-LaTeX Info: Redefining \anw@print on input line 15892.
- [237]
-LaTeX Info: Redefining \anw@print on input line 15894.
-File: figs/lumpydemo4.pdf Graphic file (type QTm)
-
-<use  "figs/lumpydemo4.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15902.
-LaTeX Info: Redefining \anw@print on input line 15920.
+LaTeX Info: Redefining \anw@print on input line 15824.
+LaTeX Info: Redefining \anw@print on input line 15826.
  [238]
-LaTeX Info: Redefining \anw@print on input line 15922.
+
+LaTeX Warning: Reference `fig.lumpy2' on page 239 undefined on input line 15849
+.
+
+LaTeX Info: Redefining \anw@print on input line 15864.
+File: figs/lumpydemo3.pdf Graphic file (type QTm)
+<use  "figs/lumpydemo3.pdf" >
+LaTeX Info: Redefining \anw@print on input line 15869.
+
+
+LaTeX Warning: Reference `sequence' on page 239 undefined on input line 15874.
+
+LaTeX Info: Redefining \anw@print on input line 15889.
+[239]
+
+LaTeX Warning: Reference `fig.lumpy3' on page 240 undefined on input line 15891
+.
+
+File: figs/lumpydemo4.pdf Graphic file (type QTm)
+<use  "figs/lumpydemo4.pdf" >
+LaTeX Info: Redefining \anw@print on input line 15899.
+
+
+LaTeX Warning: Reference `invert' on page 240 undefined on input line 15903.
+
+LaTeX Info: Redefining \anw@print on input line 15917.
+[240]
+
+LaTeX Warning: Reference `fig.lumpy4' on page 241 undefined on input line 15919
+.
+
 File: figs/lumpydemo5.pdf Graphic file (type QTm)
- <use  "figs/lumpydemo5.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15927.
-LaTeX Info: Redefining \anw@print on input line 15956.
-LaTeX Info: Redefining \anw@print on input line 15961.
+<use  "figs/lumpydemo5.pdf" >
+LaTeX Info: Redefining \anw@print on input line 15924.
+
+
+LaTeX Warning: Reference `copying' on page 241 undefined on input line 15928.
+
+
+LaTeX Warning: Reference `fig.lumpy5' on page 241 undefined on input line 15953
+.
+
+LaTeX Info: Redefining \anw@print on input line 15958.
 File: figs/lumpydemo6.pdf Graphic file (type QTm)
-
 <use  "figs/lumpydemo6.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15966.
+LaTeX Info: Redefining \anw@print on input line 15963.
 
-Underfull \vbox (badness 6575) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \anw@print on input line 15968.
- [239]
-Overfull \hbox (1.66124pt too wide) in paragraph at lines 15976--15977
+LaTeX Info: Redefining \anw@print on input line 15972.
+ [241]
+Overfull \hbox (1.66124pt too wide) in paragraph at lines 15973--15974
 \EU1/TimesNewRoman(0)/m/n/10 νται. Αυτό είναι ένα παράδειγμα το οποίο μπορείτε 
 να κατεβάσετε από εδώ : []$[][][][] [] [] [] [][][][][][][][][][][] []
  []
 
-LaTeX Info: Redefining \anw@print on input line 16000.
-LaTeX Info: Redefining \anw@print on input line 16014.
+
+LaTeX Warning: Reference `fig.lumpy6' on page 242 undefined on input line 15997
+.
+
+LaTeX Info: Redefining \anw@print on input line 16011.
 File: figs/lumpydemo7.pdf Graphic file (type QTm)
 <use  "figs/lumpydemo7.pdf" >
-LaTeX Info: Redefining \anw@print on input line 16019.
+LaTeX Info: Redefining \anw@print on input line 16016.
 
 Underfull \vbox (badness 2644) has occurred while \output is active []
 
-LaTeX Info: Redefining \anw@print on input line 16021.
- [240]
+LaTeX Info: Redefining \anw@print on input line 16018.
+ [242]
 File: figs/lumpydemo8.pdf Graphic file (type QTm)
 
 <use  "figs/lumpydemo8.pdf" >
-LaTeX Info: Redefining \anw@print on input line 16026.
-LaTeX Info: Redefining \anw@print on input line 16057.
- [241]
-LaTeX Info: Redefining \anw@print on input line 16059.
-LaTeX Info: Redefining \anw@print on input line 16081.
+LaTeX Info: Redefining \anw@print on input line 16023.
+LaTeX Info: Redefining \anw@print on input line 16054.
+ [243]
+
+LaTeX Warning: Reference `fig.lumpy7' on page 244 undefined on input line 16056
+.
+
+
+LaTeX Warning: Reference `poker' on page 244 undefined on input line 16061.
+
+
+LaTeX Warning: Reference `fig.lumpy8' on page 244 undefined on input line 16078
+.
+
+
+Overfull \hbox (7.19867pt too wide) in paragraph at lines 16078--16082
+[]\EU1/TimesNewRoman(0)/m/n/10 Η Εικόνα [] δείχνει το αποτέλεσμα. Η \EU1/lmtt/m
+/n/10 PokerHand \EU1/TimesNewRoman(0)/m/n/10 κληρονομεί την \EU1/lmtt/m/n/10 De
+ck\EU1/TimesNewRoman(0)/m/n/10 . Και η \EU1/lmtt/m/n/10 Deck \EU1/TimesNewRoman
+(0)/m/n/10 και η \EU1/lmtt/m/n/10 PokerHand
+ []
 
 No file book.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 16096.
-LaTeX Info: Redefining \anw@print on input line 16096.
-[242]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 16096.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 16093.
+LaTeX Info: Redefining \anw@print on input line 16093.
+[244]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 16093.
  (./book.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 16096.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 16096.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 16096.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 16093.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 16093.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 16093.
  )
 (\end occurred when \iffalse on line 54 was incomplete) 
 Here is how much of TeX's memory you used:
- 22737 strings out of 493727
- 410660 string characters out of 6149084
- 476116 words of memory out of 5000000
- 25774 multiletter control sequences out of 15000+600000
- 16151 words of font info for 94 fonts, out of 8000000 for 9000
+ 22713 strings out of 493727
+ 410423 string characters out of 6149084
+ 450776 words of memory out of 5000000
+ 25749 multiletter control sequences out of 15000+600000
+ 16159 words of font info for 95 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  46i,12n,59p,10376b,588s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on book.pdf (258 pages).
+Output written on book.pdf (260 pages).
