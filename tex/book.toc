@@ -143,7 +143,7 @@
 \contentsline {section}{\numberline {11.10}Ασκήσεις}{122}{section.11.10}
 \contentsline {chapter}{\numberline {12}Πλειάδες}{125}{chapter.12}
 \contentsline {section}{\numberline {12.1}Οι πλειάδες είναι αμετάβλητες}{125}{section.12.1}
-\contentsline {section}{\numberline {12.2}Εκχώρηση πλειάδων}{126}{section.12.2}
+\contentsline {section}{\numberline {12.2}Εκχώρηση πλειάδας}{126}{section.12.2}
 \contentsline {section}{\numberline {12.3}Οι πλειάδες σαν επιστρεφόμενες τιμές}{127}{section.12.3}
 \contentsline {section}{\numberline {12.4}Οι πλειάδες σαν ορίσματα μεταβλητού μήκους}{127}{section.12.4}
 \contentsline {section}{\numberline {12.5}Λίστες και πλειάδες}{128}{section.12.5}

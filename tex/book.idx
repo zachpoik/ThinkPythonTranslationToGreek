@@ -1142,8 +1142,8 @@
 \indexentry{data structure|hyperpage}{132}
 \indexentry{shape error|hyperpage}{132}
 \indexentry{error!shape|hyperpage}{132}
-\indexentry{structshape module|hyperpage}{132}
-\indexentry{module!structshape|hyperpage}{132}
+\indexentry{structshape module|hyperpage}{133}
+\indexentry{module!structshape|hyperpage}{133}
 \indexentry{tuple|hyperpage}{133}
 \indexentry{tuple assignment|hyperpage}{133}
 \indexentry{assignment!tuple|hyperpage}{133}
@@ -1503,10 +1503,10 @@
 \indexentry{parameter!other|hyperpage}{180}
 \indexentry{init method|hyperpage}{180}
 \indexentry{method!init|hyperpage}{180}
-\indexentry{optional parameter|hyperpage}{180}
-\indexentry{parameter!optional|hyperpage}{180}
-\indexentry{default value|hyperpage}{180}
-\indexentry{override|hyperpage}{180}
+\indexentry{optional parameter|hyperpage}{181}
+\indexentry{parameter!optional|hyperpage}{181}
+\indexentry{default value|hyperpage}{181}
+\indexentry{override|hyperpage}{181}
 \indexentry{Point class|hyperpage}{181}
 \indexentry{class!Point|hyperpage}{181}
 \indexentry{str method@\_\_str\_\_ method|hyperpage}{181}
@@ -1514,8 +1514,8 @@
 \indexentry{string representation|hyperpage}{181}
 \indexentry{print statement|hyperpage}{181}
 \indexentry{statement!print|hyperpage}{181}
-\indexentry{add method|hyperpage}{181}
-\indexentry{method!add|hyperpage}{181}
+\indexentry{add method|hyperpage}{182}
+\indexentry{method!add|hyperpage}{182}
 \indexentry{operator overloading|hyperpage}{182}
 \indexentry{isinstance function|hyperpage}{182}
 \indexentry{function!isinstance|hyperpage}{182}
@@ -1534,19 +1534,19 @@
 \indexentry{function!hasattr|hyperpage}{184}
 \indexentry{dict attribute@\_\_dict\_\_ attribute|hyperpage}{184}
 \indexentry{attribute!\_\_dict\_\_|hyperpage}{184}
-\indexentry{traversal!dictionary|hyperpage}{184}
-\indexentry{dictionary!traversal|hyperpage}{184}
-\indexentry{getattr function|hyperpage}{184}
-\indexentry{function!getattr|hyperpage}{184}
+\indexentry{traversal!dictionary|hyperpage}{185}
+\indexentry{dictionary!traversal|hyperpage}{185}
+\indexentry{getattr function|hyperpage}{185}
+\indexentry{function!getattr|hyperpage}{185}
 \indexentry{interface|hyperpage}{185}
 \indexentry{implementation|hyperpage}{185}
 \indexentry{maintainable|hyperpage}{185}
 \indexentry{object-oriented design|hyperpage}{185}
 \indexentry{attribute|hyperpage}{185}
 \indexentry{information hiding|hyperpage}{185}
-\indexentry{object-oriented language|hyperpage}{185}
-\indexentry{object-oriented programming|hyperpage}{185}
-\indexentry{method|hyperpage}{185}
+\indexentry{object-oriented language|hyperpage}{186}
+\indexentry{object-oriented programming|hyperpage}{186}
+\indexentry{method|hyperpage}{186}
 \indexentry{subject|hyperpage}{186}
 \indexentry{overloading|hyperpage}{186}
 \indexentry{operator!overloading|hyperpage}{186}
@@ -1749,7 +1749,7 @@
 \indexentry{callback|hyperpage}{213}
 \indexentry{flow of execution|hyperpage}{213}
 \indexentry{event-driven programming|hyperpage}{213}
-\indexentry{invariant|hyperpage}{213}
+\indexentry{invariant|hyperpage}{214}
 \indexentry{GUI|hyperpage}{214}
 \indexentry{widget|hyperpage}{214}
 \indexentry{option|hyperpage}{214}
@@ -1771,8 +1771,8 @@
 \indexentry{module!Image|hyperpage}{215}
 \indexentry{bug!worst ever|hyperpage}{215}
 \indexentry{worst bug!ever|hyperpage}{215}
-\indexentry{vector graphics|hyperpage}{215}
-\indexentry{SVG|hyperpage}{215}
+\indexentry{vector graphics|hyperpage}{216}
+\indexentry{SVG|hyperpage}{216}
 \indexentry{urllib module|hyperpage}{216}
 \indexentry{module!urllib|hyperpage}{216}
 \indexentry{URL|hyperpage}{216}
