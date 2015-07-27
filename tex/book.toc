@@ -1,14 +1,14 @@
 \contentsline {chapter}{Πρόλογος}{v}{chapter*.1}
 \contentsline {chapter}{\numberline {1}Ο\nobreakspace {}τρόπος\nobreakspace {}του\nobreakspace {}προγράμματος}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Η γλώσσα προγραμματισμού Python}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2} Τι είναι ένα πρόγραμμα}{3}{section.1.2}
+\contentsline {section}{\numberline {1.2}Τι είναι ένα πρόγραμμα}{3}{section.1.2}
 \contentsline {section}{\numberline {1.3}Τι είναι η αποσφαλμάτωση;}{3}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}Συντακτικά λάθη}{4}{subsection.1.3.1}
 \contentsline {subsection}{\numberline {1.3.2}Λάθη χρόνου εκτέλεσης}{4}{subsection.1.3.2}
 \contentsline {subsection}{\numberline {1.3.3}Λογικά λάθη}{4}{subsection.1.3.3}
 \contentsline {subsection}{\numberline {1.3.4}Πειραματική αποσφαλμάτωση}{4}{subsection.1.3.4}
 \contentsline {section}{\numberline {1.4}Φυσικές και τυπικές γλώσσες}{5}{section.1.4}
-\contentsline {section}{\numberline {1.5}Το πρώτο πρόγραμμα}{7}{section.1.5}
+\contentsline {section}{\numberline {1.5}Το πρώτο πρόγραμμα}{6}{section.1.5}
 \contentsline {section}{\numberline {1.6}Αποσφαλμάτωση}{7}{section.1.6}
 \contentsline {section}{\numberline {1.7}Ορολογία}{8}{section.1.7}
 \contentsline {section}{\numberline {1.8}Ασκήσεις}{9}{section.1.8}
@@ -157,7 +157,7 @@
 \contentsline {section}{\numberline {13.1}Ανάλυση συχνότητας λέξεων}{137}{section.13.1}
 \contentsline {section}{\numberline {13.2}Τυχαίοι αριθμοί}{138}{section.13.2}
 \contentsline {section}{\numberline {13.3}Ιστόγραμμα λέξεων}{139}{section.13.3}
-\contentsline {section}{\numberline {13.4}Οι πιο συνηθέστερες λέξεις}{140}{section.13.4}
+\contentsline {section}{\numberline {13.4}Οι συνηθέστερες λέξεις}{140}{section.13.4}
 \contentsline {section}{\numberline {13.5}Προαιρετικές παράμετροι}{141}{section.13.5}
 \contentsline {section}{\numberline {13.6}Αφαίρεση λεξικών}{141}{section.13.6}
 \contentsline {section}{\numberline {13.7}Τυχαίες λέξεις}{142}{section.13.7}

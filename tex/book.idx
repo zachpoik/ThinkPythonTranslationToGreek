@@ -50,13 +50,13 @@
 \indexentry{language!natural|hyperpage}{5}
 \indexentry{token|hyperpage}{5}
 \indexentry{structure|hyperpage}{5}
-\indexentry{parse|hyperpage}{6}
+\indexentry{parse|hyperpage}{5}
 \indexentry{ambiguity|hyperpage}{6}
 \indexentry{redundancy|hyperpage}{6}
 \indexentry{literalness|hyperpage}{6}
 \indexentry{poetry|hyperpage}{6}
 \indexentry{prose|hyperpage}{6}
-\indexentry{Hello, World|hyperpage}{7}
+\indexentry{Hello, World|hyperpage}{6}
 \indexentry{quotation mark|hyperpage}{7}
 \indexentry{print statement|hyperpage}{7}
 \indexentry{statement!print|hyperpage}{7}
@@ -86,11 +86,11 @@
 \indexentry{debugging|hyperpage}{8}
 \indexentry{syntax|hyperpage}{8}
 \indexentry{syntax error|hyperpage}{8}
-\indexentry{exception|hyperpage}{9}
-\indexentry{semantics|hyperpage}{9}
-\indexentry{semantic error|hyperpage}{9}
-\indexentry{natural language|hyperpage}{9}
-\indexentry{formal language|hyperpage}{9}
+\indexentry{exception|hyperpage}{8}
+\indexentry{semantics|hyperpage}{8}
+\indexentry{semantic error|hyperpage}{8}
+\indexentry{natural language|hyperpage}{8}
+\indexentry{formal language|hyperpage}{8}
 \indexentry{token|hyperpage}{9}
 \indexentry{parse|hyperpage}{9}
 \indexentry{print statement|hyperpage}{9}
@@ -1195,7 +1195,7 @@
 \indexentry{Austin, Jane|hyperpage}{139}
 \indexentry{accumulator!histogram|hyperpage}{139}
 \indexentry{traversal|hyperpage}{139}
-\indexentry{update!histogram|hyperpage}{139}
+\indexentry{update!histogram|hyperpage}{140}
 \indexentry{DSU pattern|hyperpage}{140}
 \indexentry{pattern!DSU|hyperpage}{140}
 \indexentry{optional parameter|hyperpage}{141}
@@ -1228,8 +1228,8 @@
 \indexentry{random walk programming|hyperpage}{146}
 \indexentry{development plan!random walk programming|hyperpage}{146}
 \indexentry{deterministic|hyperpage}{146}
-\indexentry{pseudorandom|hyperpage}{146}
-\indexentry{default value|hyperpage}{146}
+\indexentry{pseudorandom|hyperpage}{147}
+\indexentry{default value|hyperpage}{147}
 \indexentry{override|hyperpage}{147}
 \indexentry{benchmarking|hyperpage}{147}
 \indexentry{word frequency|hyperpage}{147}
