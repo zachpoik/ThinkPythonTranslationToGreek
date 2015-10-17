@@ -224,7 +224,7 @@
 \BOOKMARK [1][-]{section.18.10}{Ενθυλάκωση δεδομένων}{chapter.18}% 224
 \BOOKMARK [1][-]{section.18.11}{Ορολογία}{chapter.18}% 225
 \BOOKMARK [1][-]{section.18.12}{Ασκήσεις}{chapter.18}% 226
-\BOOKMARK [0][-]{chapter.19}{Tkinter}{}% 227
+\BOOKMARK [0][-]{chapter.19}{Μελέτη περίπτωσης: Tkinter}{}% 227
 \BOOKMARK [1][-]{section.19.1}{Γραφική διασύνδεση χρήστη}{chapter.19}% 228
 \BOOKMARK [1][-]{section.19.2}{Κουμπιά και επιστροφές κλήσεων}{chapter.19}% 229
 \BOOKMARK [1][-]{section.19.3}{Γραφικά στοιχεία Καμβά}{chapter.19}% 230
@@ -238,7 +238,7 @@
 \BOOKMARK [1][-]{section.19.11}{Ασκήσεις}{chapter.19}% 238
 \BOOKMARK [0][-]{appendix.Alph1}{Αποσφαλμάτωση}{}% 239
 \BOOKMARK [1][-]{section.Alph1.1}{Συντακτικά λάθη}{appendix.Alph1}% 240
-\BOOKMARK [2][-]{subsection.Alph1.1.1}{Συνεχίζω να κάνω αλλαγές αλλά δεν υπάρχει διαφορά.}{section.Alph1.1}% 241
+\BOOKMARK [2][-]{subsection.Alph1.1.1}{Συνεχίζω να κάνω αλλαγές αλλά δεν αλλάζει κάτι.}{section.Alph1.1}% 241
 \BOOKMARK [1][-]{section.Alph1.2}{Λάθη χρόνου εκτέλεσης}{appendix.Alph1}% 242
 \BOOKMARK [2][-]{subsection.Alph1.2.1}{Το πρόγραμμά μου δεν κάνει απολύτως τίποτα.}{section.Alph1.2}% 243
 \BOOKMARK [2][-]{subsection.Alph1.2.2}{Το πρόγραμμά μου κρεμάει.}{section.Alph1.2}% 244

@@ -209,7 +209,7 @@
 \contentsline {section}{\numberline {17.9}Πολυμορφισμός}{185}{section.17.9}
 \contentsline {section}{\numberline {17.10}Αποσφαλμάτωση}{186}{section.17.10}
 \contentsline {section}{\numberline {17.11}Διεπαφή και υλοποίηση}{187}{section.17.11}
-\contentsline {section}{\numberline {17.12}Ορολογία}{187}{section.17.12}
+\contentsline {section}{\numberline {17.12}Ορολογία}{188}{section.17.12}
 \contentsline {section}{\numberline {17.13}Ασκήσεις}{188}{section.17.13}
 \contentsline {chapter}{\numberline {18}Κληρονομικότητα}{191}{chapter.18}
 \contentsline {section}{\numberline {18.1}Αντικείμενα τραπουλόχαρτων}{191}{section.18.1}
@@ -223,8 +223,8 @@
 \contentsline {section}{\numberline {18.9}Αποσφαλμάτωση}{199}{section.18.9}
 \contentsline {section}{\numberline {18.10}Ενθυλάκωση δεδομένων}{200}{section.18.10}
 \contentsline {section}{\numberline {18.11}Ορολογία}{201}{section.18.11}
-\contentsline {section}{\numberline {18.12}Ασκήσεις}{201}{section.18.12}
-\contentsline {chapter}{\numberline {19}Tkinter}{205}{chapter.19}
+\contentsline {section}{\numberline {18.12}Ασκήσεις}{202}{section.18.12}
+\contentsline {chapter}{\numberline {19}Μελέτη περίπτωσης: Tkinter}{205}{chapter.19}
 \contentsline {section}{\numberline {19.1}Γραφική διασύνδεση χρήστη}{205}{section.19.1}
 \contentsline {section}{\numberline {19.2}Κουμπιά και επιστροφές κλήσεων}{206}{section.19.2}
 \contentsline {section}{\numberline {19.3}Γραφικά στοιχεία Καμβά}{207}{section.19.3}
@@ -238,12 +238,12 @@
 \contentsline {section}{\numberline {19.11}Ασκήσεις}{216}{section.19.11}
 \contentsline {chapter}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }}Αποσφαλμάτωση}{219}{appendix.Alph1}
 \contentsline {section}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.1}Συντακτικά λάθη}{219}{section.Alph1.1}
-\contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.1.1}Συνεχίζω να κάνω αλλαγές αλλά δεν υπάρχει διαφορά.}{220}{subsection.Alph1.1.1}
+\contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.1.1}Συνεχίζω να κάνω αλλαγές αλλά δεν αλλάζει κάτι.}{220}{subsection.Alph1.1.1}
 \contentsline {section}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.2}Λάθη χρόνου εκτέλεσης}{221}{section.Alph1.2}
 \contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.2.1}Το πρόγραμμά μου δεν κάνει απολύτως τίποτα.}{221}{subsection.Alph1.2.1}
 \contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.2.2}Το πρόγραμμά μου κρεμάει.}{221}{subsection.Alph1.2.2}
 \contentsline {subsubsection}{Ατέρμων Βρόχος}{222}{section*.6}
-\contentsline {subsubsection}{Ατέρμονη Αναδρομή}{222}{section*.7}
+\contentsline {subsubsection}{Άπειρη Αναδρομή}{222}{section*.7}
 \contentsline {subsubsection}{Ροή Εκτέλεσης}{222}{section*.8}
 \contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.2.3}Παίρνω μία εξαίρεση όταν τρέχω το πρόγραμμα.}{222}{subsection.Alph1.2.3}
 \contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.2.4}Πρόσθεσα πολλές δηλώσεις {\tt print} και πελάγωσα με την έξοδο.}{223}{subsection.Alph1.2.4}
@@ -256,7 +256,7 @@
 \contentsline {chapter}{\numberline {\MakeUppercase {β\anw@true \anw@print \relax }}Ανάλυση Αλγορίθμων}{229}{appendix.Alph2}
 \contentsline {section}{\numberline {\MakeUppercase {β\anw@true \anw@print \relax }.1}Τάξη αύξησης}{230}{section.Alph2.1}
 \contentsline {section}{\numberline {\MakeUppercase {β\anw@true \anw@print \relax }.2}Ανάλυση των βασικών πράξεων της γλώσσας}{232}{section.Alph2.2}
-\contentsline {section}{\numberline {\MakeUppercase {β\anw@true \anw@print \relax }.3}Ανάλυση των αλγόριθμων αναζήτησης}{233}{section.Alph2.3}
+\contentsline {section}{\numberline {\MakeUppercase {β\anw@true \anw@print \relax }.3}Ανάλυση των αλγόριθμων αναζήτησης}{234}{section.Alph2.3}
 \contentsline {section}{\numberline {\MakeUppercase {β\anw@true \anw@print \relax }.4}Πίνακες κατακερματισμού}{234}{section.Alph2.4}
 \contentsline {chapter}{\numberline {\MakeUppercase {γ\anw@true \anw@print \relax }}Lumpy}{239}{appendix.Alph3}
 \contentsline {section}{\numberline {\MakeUppercase {γ\anw@true \anw@print \relax }.1}Διάγραμμα κατάστασης}{240}{section.Alph3.1}

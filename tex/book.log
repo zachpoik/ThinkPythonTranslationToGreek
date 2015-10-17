@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2015.7.31)  10 SEP 2015 16:21
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2015.7.31)  16 OCT 2015 21:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1956,34 +1956,60 @@ Underfull \hbox (badness 10000) in paragraph at lines 11867--11870
 
 ]
 Κεφάλαιο 17.
-[179]
-Overfull \hbox (9.82695pt too wide) in paragraph at lines 12028--12029
-\EU1/TimesNewRoman(0)/m/n/10 Σε αυτήν την χρήση του συμβολισμού με τελεία, το \
-EU1/lmtt/m/n/10 Time \EU1/TimesNewRoman(0)/m/n/10 είναι το όνομα της κλάσης και
- το []\EU1/lmtt/m/n/10 print_time
+
+Overfull \hbox (0.2714pt too wide) in paragraph at lines 11941--11943
+[]\EU1/TimesNewRoman(0)/m/n/10 Η Python είναι μία \EU1/TimesNewRoman(0)/bx/n/10
+ αντικειμενοστραφής γλώσσα προγραμματισμού \EU1/TimesNewRoman(0)/m/n/10 (object
+-oriented programming
  []
 
-[180] [181]
-Overfull \hbox (11.40508pt too wide) in paragraph at lines 12142--12144
+[179] [180]
+Underfull \hbox (badness 10000) in paragraph at lines 12089--12094
+
+ []
+
+[181]
+Overfull \hbox (9.7384pt too wide) in paragraph at lines 12170--12172
 \EU1/TimesNewRoman(0)/m/n/10 Το καλό με αυτήν τη σύνταξη είναι ότι διαβάζεται σ
-χεδόν όπως στα Αγγλικά : “end is after start?” 
+χεδόν όπως στα Αγγλικά: “end is after start?” 
  []
 
-[182] [183]
-Overfull \hbox (2.16937pt too wide) in paragraph at lines 12325--12326
+
+Overfull \hbox (8.46771pt too wide) in paragraph at lines 12192--12194
+\EU1/TimesNewRoman(0)/m/n/10 Οι παράμετροι της []\EU1/lmtt/m/n/10 __init__ \EU1
+/TimesNewRoman(0)/m/n/10 συνηθίζεται να έχουν τα ίδια ονόματα με τις ιδιότητες.
+ Η δήλωση: 
+ []
+
+[182]
+Underfull \hbox (badness 10000) in paragraph at lines 12231--12233
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12270--12273
+
+ []
+
+[183]
+Underfull \hbox (badness 10000) in paragraph at lines 12313--12317
+
+ []
+
+[184]
+Overfull \hbox (0.5027pt too wide) in paragraph at lines 12361--12362
 []\EU1/TimesNewRoman(0)/m/n/10 Αυτά είναι κάποια παραδείγματα που χρησιμοποιούν
  τον τελεστή \EU1/lmtt/m/n/10 + \EU1/TimesNewRoman(0)/m/n/10 με διαφορετικούς τ
-ύπους : 
+ύπους: 
  []
 
-[184] [185]
-Overfull \hbox (1.95518pt too wide) in paragraph at lines 12464--12465
-\EU1/TimesNewRoman(0)/m/n/10 Ίσως σας φανεί χρήσιμο, για λόγους αποσφαλμάτωσης,
- να έχετε αυτήν τη συνάρτηση εύχερη : 
+
+Underfull \hbox (badness 10000) in paragraph at lines 12403--12405
+
  []
 
-[186] [187]
-Overfull \hbox (13.80937pt too wide) in paragraph at lines 12593--12595
+[185] [186] [187]
+Overfull \hbox (13.80937pt too wide) in paragraph at lines 12642--12644
 []\EU1/TimesNewRoman(0)/m/it/10 Μία []\EU1/lmtt/m/n/10 __str__ \EU1/TimesNewRom
 an(0)/m/it/10 η οποία θα επιστρέφει μία συμβολοσειρά αναπαράστασης του αντικειμ
 ένου Kangaroo
@@ -1994,291 +2020,342 @@ an(0)/m/it/10 η οποία θα επιστρέφει μία συμβολοσε�
 ]
 Κεφάλαιο 18.
 
-Overfull \hbox (5.5001pt too wide) in paragraph at lines 12727--12729
+Overfull \hbox (3.83344pt too wide) in paragraph at lines 12775--12776
 []\EU1/TimesNewRoman(0)/m/n/10 Για παράδειγμα, αυτός ο πίνακας δείχνει τα χρώμα
-τα και τους αντίστοιχους κώδικες ακεραίων : 
+τα και τους αντίστοιχους κώδικες ακεραίων: 
  []
 
 [191] [192]
 File: figs/card1.pdf Graphic file (type QTm)
- <use  "figs/card1.pdf" > [193] [194] [195]
-Overfull \hbox (0.85426pt too wide) in paragraph at lines 13043--13044
+ <use  "figs/card1.pdf" > [193]
+Underfull \hbox (badness 10000) in paragraph at lines 12970--12975
+
+ []
+
+[194] [195]
+Overfull \hbox (0.85426pt too wide) in paragraph at lines 13099--13100
 []\EU1/TimesNewRoman(0)/m/n/10 Για να προσθέσουμε ένα φύλλο, μπορούμε να χρησιμ
 οποιήσουμε την μέθοδο λιστών \EU1/lmtt/m/n/10 append\EU1/TimesNewRoman(0)/m/n/1
 0 : 
  []
 
 
-Overfull \hbox (7.38974pt too wide) in paragraph at lines 13115--13116
+Underfull \hbox (badness 10000) in paragraph at lines 13131--13133
+
+ []
+
+[196]
+Overfull \hbox (7.38974pt too wide) in paragraph at lines 13172--13173
 []\EU1/TimesNewRoman(0)/m/n/10 Αυτή η σχέση μεταξύ κλάσεων (όμοιες αλλά διαφορε
 τικές) προσφέρεται για κληρονομικότητα. 
  []
 
-[196]
-Overfull \hbox (8.87381pt too wide) in paragraph at lines 13139--13141
-[]\EU1/TimesNewRoman(0)/m/n/10 Αν παράσχουμε μία μέθοδο init στην κλάση \EU1/lm
-tt/m/n/10 Hand\EU1/TimesNewRoman(0)/m/n/10 , τότε θα υπερισχύσει αυτής στην κλά
-ση \EU1/lmtt/m/n/10 Deck\EU1/TimesNewRoman(0)/m/n/10 : 
+
+Underfull \hbox (badness 10000) in paragraph at lines 13246--13251
+
  []
 
 [197]
 File: figs/class1.pdf Graphic file (type QTm)
- <use  "figs/class1.pdf" > [198] [199]
-Overfull \hbox (46.2182pt too wide) in paragraph at lines 13388--13390
+ <use  "figs/class1.pdf" > [198]
+Underfull \hbox (badness 10000) in paragraph at lines 13333--13337
+
+ []
+
+[199]
+Overfull \hbox (46.2182pt too wide) in paragraph at lines 13453--13455
 []\EU1/TimesNewRoman(0)/m/n/10 Στη συνέχεια, μετατρέπουμε τις συναρτήσεις σε με
 θόδους. Για παράδειγμα, αυτή είναι η []\EU1/lmtt/m/n/10 process_word\EU1/TimesN
 ewRoman(0)/m/n/10 : 
  []
 
 [200]
-Overfull \hbox (10.35199pt too wide) in paragraph at lines 13430--13433
+Underfull \hbox (badness 10000) in paragraph at lines 13488--13490
+
+ []
+
+
+Overfull \hbox (8.68532pt too wide) in paragraph at lines 13496--13500
 \EU1/TimesNewRoman(0)/m/it/10 καθολικές μεταβλητές σαν ιδιότητες μίας νέας κλάσ
-ης με όνομα \EU1/lmtt/m/n/10 Markov\EU1/TimesNewRoman(0)/m/it/10 . Λύση : []$[]
-[][][] [] [] [] [][][][][][][][][][][] []
+ης με όνομα \EU1/lmtt/m/n/10 Markov\EU1/TimesNewRoman(0)/m/it/10 . Λύση: []$[][
+][][] [] [] [] [][][][][][][][][][][] []
  []
 
-[201]
-Overfull \hbox (15.83574pt too wide) in paragraph at lines 13559--13563
-\EU1/TimesNewRoman(0)/m/it/10 υπολογίσετε τις πιθανότητες των διαφόρων χεριών. 
-Γράψτε μία συνάρτηση μέσα στο \EU1/lmtt/m/n/10 PokerHand.py
- []
-
-[202] [203] [204
+[201] [202] [203] [204
 
 ]
 Κεφάλαιο 19.
 [205]
-Overfull \hbox (13.81879pt too wide) in paragraph at lines 13781--13783
+Overfull \hbox (13.81879pt too wide) in paragraph at lines 13853--13855
 \EU1/TimesNewRoman(0)/m/n/10 Τώρα μπορούμε να δημιουργήσουμε ένα κουμπί με αυτή
 ν την συνάρτηση ως εντολή (command): 
  []
 
-[206] [207] [208]
-Overfull \hbox (5.337pt too wide) in paragraph at lines 13977--13979
+[206]
+Underfull \hbox (badness 10000) in paragraph at lines 13874--13878
+
+ []
+
+[207]
+Underfull \hbox (badness 10000) in paragraph at lines 13958--13961
+
+ []
+
+
+Overfull \hbox (1.78102pt too wide) in paragraph at lines 13984--13987
+\EU1/TimesNewRoman(0)/m/n/10 Αυτός ο τρόπος προσδιορισμού των γωνιών ονομάζεται
+ \EU1/TimesNewRoman(0)/bx/n/10 πλαίσιο οριοθέτησης \EU1/TimesNewRoman(0)/m/n/10
+ (bounding box) επειδή
+ []
+
+[208]
+Overfull \hbox (10.49213pt too wide) in paragraph at lines 14043--14045
+\EU1/TimesNewRoman(0)/m/n/10 Η \EU1/lmtt/m/n/10 width \EU1/TimesNewRoman(0)/m/n
+/10 και η \EU1/lmtt/m/n/10 height \EU1/TimesNewRoman(0)/m/n/10 είναι οι διαστάσ
+εις του στοιχείου σε χαρακτήρες και γραμμές αντίστοιχα. 
+ []
+
+
+Overfull \hbox (5.337pt too wide) in paragraph at lines 14052--14054
 \EU1/TimesNewRoman(0)/m/n/10 Η \EU1/lmtt/m/n/10 END \EU1/TimesNewRoman(0)/m/n/1
 0 είναι ένας ειδικός δείκτης ο οποίος υποδεικνύει τον τελευταίο χαρακτήρα μέσα 
 στο Text. 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 14081--14084
+
+ []
+
 File: figs/TurtleWorld.pdf Graphic file (type QTm)
 <use  "figs/TurtleWorld.pdf" >
-Overfull \hbox (6.57497pt too wide) in paragraph at lines 14038--14040
+Overfull \hbox (4.9083pt too wide) in paragraph at lines 14117--14119
 \EU1/TimesNewRoman(0)/m/n/10 σειρά βημάτων. Μπορείτε να κατεβάσετε ολόκληρο το 
-παράδειγμα από εδώ : []$[][][][] [] [] [] [][][][][][][][][][][] []
+παράδειγμα από εδώ: []$[][][][] [] [] [] [][][][][][][][][][][] []
  []
 
-[209] [210] [211]
-Underfull \vbox (badness 1383) has occurred while \output is active []
-
- [212]
-[213] [214]
-Overfull \hbox (1.06003pt too wide) in paragraph at lines 14417--14419
-[]\EU1/TimesNewRoman(0)/m/n/10 Για κάθε ζευγάρι κατάστασης-συμβάντος, ποιο είνα
-ι το επιθυμητό αποτέλεσμα ; Από τη στιγμή
- []
-
-[215] [216]
-Overfull \hbox (5.40994pt too wide) in paragraph at lines 14541--14543
+[209] [210] [211] [212] [213] [214] [215] [216]
+Overfull \hbox (5.40994pt too wide) in paragraph at lines 14648--14652
 []\EU1/TimesNewRoman(0)/m/it/10 Κατεβάστε τα []\EU1/lmtt/m/n/10 image_demo.py\E
 U1/TimesNewRoman(0)/m/it/10 , []\EU1/lmtt/m/n/10 danger.gif \EU1/TimesNewRoman(
 0)/m/it/10 και []\EU1/lmtt/m/n/10 allen.png \EU1/TimesNewRoman(0)/m/it/10 από ε
 δώ []$[][][][] [] [] [] [][][][][][][][][][][] []
  []
 
-[217] [218]
+
+Underfull \hbox (badness 10000) in paragraph at lines 14681--14683
+
+ []
+
+[217]
+Underfull \hbox (badness 10000) in paragraph at lines 14698--14702
+
+ []
+
+[218]
 Παράρτημα \MakeUppercase {α\anw@true \anw@print \relax }.
-LaTeX Info: Redefining \anw@print on input line 14621.
-LaTeX Info: Redefining \anw@print on input line 14660.
+LaTeX Info: Redefining \anw@print on input line 14735.
+
+Overfull \hbox (13.54375pt too wide) in paragraph at lines 14749--14754
+\EU1/TimesNewRoman(0)/m/n/10 Μία άπειρη αναδρομή θα προκαλέσει τελικά ένα σφάλμ
+α χρόνου εκτέλεσης: “maximum recursion
+ []
+
+LaTeX Info: Redefining \anw@print on input line 14775.
 [219
 
 ]
-LaTeX Info: Redefining \anw@print on input line 14723.
-LaTeX Info: Redefining \anw@print on input line 14754.
- [220]
-LaTeX Info: Redefining \anw@print on input line 14760.
-LaTeX Info: Redefining \anw@print on input line 14766.
-LaTeX Info: Redefining \anw@print on input line 14778.
-LaTeX Info: Redefining \anw@print on input line 14817.
- [221]
-LaTeX Info: Redefining \anw@print on input line 14862.
+LaTeX Info: Redefining \anw@print on input line 14841.
 LaTeX Info: Redefining \anw@print on input line 14872.
- [222]
-LaTeX Info: Redefining \anw@print on input line 14930.
-LaTeX Info: Redefining \anw@print on input line 14942.
- [223]
-LaTeX Info: Redefining \anw@print on input line 14954.
-LaTeX Info: Redefining \anw@print on input line 14967.
+ [220]
+LaTeX Info: Redefining \anw@print on input line 14880.
+LaTeX Info: Redefining \anw@print on input line 14886.
+LaTeX Info: Redefining \anw@print on input line 14897.
+LaTeX Info: Redefining \anw@print on input line 14939.
+ [221]
 LaTeX Info: Redefining \anw@print on input line 14988.
- [224]
-LaTeX Info: Redefining \anw@print on input line 14995.
+LaTeX Info: Redefining \anw@print on input line 15001.
+ [222]
+Overfull \hbox (12.89168pt too wide) in paragraph at lines 15065--15068
+\EU1/TimesNewRoman(0)/m/n/10 σετε σχετικά με τον \EU1/lmtt/m/n/10 pdb \EU1/Time
+sNewRoman(0)/m/n/10 στην διεύθυνση: []$[][][][] [] [] [] [][][][] [] [][][][][]
+[] [] [][][] [] [] [] [][][][][][][] [] [][][] [] [][][][]$[]. 
+ []
 
-Overfull \hbox (5.09314pt too wide) in paragraph at lines 14995--14995
+LaTeX Info: Redefining \anw@print on input line 15070.
+LaTeX Info: Redefining \anw@print on input line 15079.
+[223]
+LaTeX Info: Redefining \anw@print on input line 15099.
+LaTeX Info: Redefining \anw@print on input line 15120.
+LaTeX Info: Redefining \anw@print on input line 15136.
+ [224]
+LaTeX Info: Redefining \anw@print on input line 15155.
+
+Overfull \hbox (5.09314pt too wide) in paragraph at lines 15155--15155
 []\EU1/TimesNewRoman(0)/bx/n/12 Έχω μία μεγάλη έκφραση η οποία δεν κάνει αυτό π
 ου θα περίμενα. 
  []
 
-LaTeX Info: Redefining \anw@print on input line 15040.
-LaTeX Info: Redefining \anw@print on input line 15045.
+LaTeX Info: Redefining \anw@print on input line 15209.
+LaTeX Info: Redefining \anw@print on input line 15216.
 [225]
-LaTeX Info: Redefining \anw@print on input line 15062.
-LaTeX Info: Redefining \anw@print on input line 15097.
-LaTeX Info: Redefining \anw@print on input line 15116.
+LaTeX Info: Redefining \anw@print on input line 15231.
+LaTeX Info: Redefining \anw@print on input line 15269.
+LaTeX Info: Redefining \anw@print on input line 15291.
  [226]
-LaTeX Info: Redefining \anw@print on input line 15128.
+LaTeX Info: Redefining \anw@print on input line 15305.
  [227]
-LaTeX Info: Redefining \anw@print on input line 15128.
+LaTeX Info: Redefining \anw@print on input line 15305.
  [228
 
 ]
 Παράρτημα \MakeUppercase {β\anw@true \anw@print \relax }.
-LaTeX Info: Redefining \anw@print on input line 15128.
+LaTeX Info: Redefining \anw@print on input line 15305.
 
-Overfull \hbox (24.2176pt too wide) in paragraph at lines 15131--15133
+Overfull \hbox (24.2176pt too wide) in paragraph at lines 15308--15311
 []\EU1/TimesNewRoman(0)/m/n/10 Αυτό το παράρτημα αποτελεί ένα τροποποιημένο από
 σπασμα από το βιβλίο \EU1/TimesNewRoman(0)/m/it/10 Think Complexity\EU1/TimesNe
 wRoman(0)/m/n/10 ,
  []
 
 [229]
-Overfull \hbox (8.94737pt too wide) in paragraph at lines 15180--15182
+Overfull \hbox (8.94737pt too wide) in paragraph at lines 15378--15379
 []\EU1/TimesNewRoman(0)/m/n/10 Αυτού του είδους η ανάλυση έχει κάποιους περιορι
 σμούς, αλλά θα φτάσουμε σε αυτό αργότερα. 
  []
 
-LaTeX Info: Redefining \anw@print on input line 15185.
-LaTeX Info: Redefining \anw@print on input line 15225.
+LaTeX Info: Redefining \anw@print on input line 15382.
+LaTeX Info: Redefining \anw@print on input line 15428.
 [230]
-LaTeX Info: Redefining \anw@print on input line 15268.
-LaTeX Info: Redefining \anw@print on input line 15301.
+LaTeX Info: Redefining \anw@print on input line 15477.
+LaTeX Info: Redefining \anw@print on input line 15507.
  [231]
-LaTeX Info: Redefining \anw@print on input line 15301.
-LaTeX Info: Redefining \anw@print on input line 15354.
+LaTeX Info: Redefining \anw@print on input line 15515.
+LaTeX Info: Redefining \anw@print on input line 15569.
  [232]
-LaTeX Info: Redefining \anw@print on input line 15383.
-LaTeX Info: Redefining \anw@print on input line 15388.
+LaTeX Info: Redefining \anw@print on input line 15609.
 
-Overfull \hbox (5.79565pt too wide) in paragraph at lines 15389--15393
+Underfull \hbox (badness 10000) in paragraph at lines 15608--15611
+
+ []
+
+LaTeX Info: Redefining \anw@print on input line 15614.
+
+Overfull \hbox (5.79565pt too wide) in paragraph at lines 15615--15618
 []\EU1/TimesNewRoman(0)/bx/n/10 Άσκηση Βʹ.2. \EU1/TimesNewRoman(0)/m/it/10 Διαβ
 άστε στην Wikipedia για τους αλγόριθμους ταξινόμησης ([]$[][][][] [] [] [] [][]
  [] [][][][][][][][][] []
  []
 
-LaTeX Info: Redefining \anw@print on input line 15427.
-LaTeX Info: Redefining \anw@print on input line 15446.
+LaTeX Info: Redefining \anw@print on input line 15651.
+LaTeX Info: Redefining \anw@print on input line 15657.
 [233]
-LaTeX Info: Redefining \anw@print on input line 15452.
-LaTeX Info: Redefining \anw@print on input line 15473.
-LaTeX Info: Redefining \anw@print on input line 15513.
- [234]
-Overfull \hbox (5.41776pt too wide) in paragraph at lines 15526--15528
+Underfull \hbox (badness 10000) in paragraph at lines 15674--15677
+
+ []
+
+LaTeX Info: Redefining \anw@print on input line 15679.
+LaTeX Info: Redefining \anw@print on input line 15699.
+LaTeX Info: Redefining \anw@print on input line 15716.
+[234]
+Overfull \hbox (5.41776pt too wide) in paragraph at lines 15755--15760
 []\EU1/TimesNewRoman(0)/m/n/10 Ένας τρόπος για να βελτιώσουμε την \EU1/lmtt/m/n
 /10 LinearMap \EU1/TimesNewRoman(0)/m/n/10 είναι να σπάσουμε τη λίστα των ζευγα
 ριών κλειδιού-
  []
 
-LaTeX Info: Redefining \anw@print on input line 15560.
+LaTeX Info: Redefining \anw@print on input line 15780.
 [235]
-LaTeX Info: Redefining \anw@print on input line 15617.
+LaTeX Info: Redefining \anw@print on input line 15837.
  [236]
-LaTeX Info: Redefining \anw@print on input line 15640.
+LaTeX Info: Redefining \anw@print on input line 15880.
 File: figs/towers.pdf Graphic file (type QTm)
  <use  "figs/towers.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15646.
-LaTeX Info: Redefining \anw@print on input line 15652.
+LaTeX Info: Redefining \anw@print on input line 15886.
+LaTeX Info: Redefining \anw@print on input line 15894.
  [237]
-LaTeX Info: Redefining \anw@print on input line 15663.
+LaTeX Info: Redefining \anw@print on input line 15907.
  [238]
 Παράρτημα \MakeUppercase {γ\anw@true \anw@print \relax }.
-LaTeX Info: Redefining \anw@print on input line 15663.
+LaTeX Info: Redefining \anw@print on input line 15907.
 [239
 
 ]
-LaTeX Info: Redefining \anw@print on input line 15708.
+LaTeX Info: Redefining \anw@print on input line 15964.
 File: figs/lumpydemo1.pdf Graphic file (type QTm)
  <use  "figs/lumpydemo1.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15713.
-LaTeX Info: Redefining \anw@print on input line 15746.
-
-Overfull \hbox (0.28264pt too wide) in paragraph at lines 15756--15759
-[]\EU1/TimesNewRoman(0)/m/n/10 Μπορείτε να κατεβάσετε αυτό το παράδειγμα από εδ
-ώ : []$[][][][] [] [] [] [][][][][][][][][][][] [] [][][] [] [][][][] [] [][][]
-[][] []
- []
-
-LaTeX Info: Redefining \anw@print on input line 15762.
+LaTeX Info: Redefining \anw@print on input line 15969.
+LaTeX Info: Redefining \anw@print on input line 16004.
+LaTeX Info: Redefining \anw@print on input line 16021.
 File: figs/lumpydemo2.pdf Graphic file (type QTm)
-<use  "figs/lumpydemo2.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15767.
-LaTeX Info: Redefining \anw@print on input line 15769.
+ <use  "figs/lumpydemo2.pdf" >
+LaTeX Info: Redefining \anw@print on input line 16026.
+LaTeX Info: Redefining \anw@print on input line 16028.
  [240]
-LaTeX Info: Redefining \anw@print on input line 15792.
-LaTeX Info: Redefining \anw@print on input line 15807.
+LaTeX Info: Redefining \anw@print on input line 16050.
+LaTeX Info: Redefining \anw@print on input line 16068.
 File: figs/lumpydemo3.pdf Graphic file (type QTm)
- <use  "figs/lumpydemo3.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15812.
-LaTeX Info: Redefining \anw@print on input line 15832.
+
+<use  "figs/lumpydemo3.pdf" >
+LaTeX Info: Redefining \anw@print on input line 16073.
+LaTeX Info: Redefining \anw@print on input line 16091.
  [241]
-LaTeX Info: Redefining \anw@print on input line 15834.
+LaTeX Info: Redefining \anw@print on input line 16093.
 File: figs/lumpydemo4.pdf Graphic file (type QTm)
-
-<use  "figs/lumpydemo4.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15842.
-LaTeX Info: Redefining \anw@print on input line 15860.
+ <use  "figs/lumpydemo4.pdf" >
+LaTeX Info: Redefining \anw@print on input line 16102.
+LaTeX Info: Redefining \anw@print on input line 16120.
  [242]
-LaTeX Info: Redefining \anw@print on input line 15862.
+LaTeX Info: Redefining \anw@print on input line 16122.
 File: figs/lumpydemo5.pdf Graphic file (type QTm)
- <use  "figs/lumpydemo5.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15867.
-LaTeX Info: Redefining \anw@print on input line 15896.
-LaTeX Info: Redefining \anw@print on input line 15901.
-File: figs/lumpydemo6.pdf Graphic file (type QTm)
 
-<use  "figs/lumpydemo6.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15906.
+<use  "figs/lumpydemo5.pdf" >
+LaTeX Info: Redefining \anw@print on input line 16129.
+LaTeX Info: Redefining \anw@print on input line 16159.
+LaTeX Info: Redefining \anw@print on input line 16166.
+File: figs/lumpydemo6.pdf Graphic file (type QTm)
+ <use  "figs/lumpydemo6.pdf" >
+LaTeX Info: Redefining \anw@print on input line 16171.
 
 Underfull \vbox (badness 6575) has occurred while \output is active []
 
-LaTeX Info: Redefining \anw@print on input line 15908.
+LaTeX Info: Redefining \anw@print on input line 16173.
  [243]
-Overfull \hbox (1.66124pt too wide) in paragraph at lines 15916--15917
-\EU1/TimesNewRoman(0)/m/n/10 νται. Αυτό είναι ένα παράδειγμα το οποίο μπορείτε 
-να κατεβάσετε από εδώ : []$[][][][] [] [] [] [][][][][][][][][][][] []
- []
-
-LaTeX Info: Redefining \anw@print on input line 15940.
-LaTeX Info: Redefining \anw@print on input line 15954.
+LaTeX Info: Redefining \anw@print on input line 16208.
+LaTeX Info: Redefining \anw@print on input line 16224.
 File: figs/lumpydemo7.pdf Graphic file (type QTm)
+
 <use  "figs/lumpydemo7.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15959.
+LaTeX Info: Redefining \anw@print on input line 16229.
 
 Underfull \vbox (badness 2644) has occurred while \output is active []
 
-LaTeX Info: Redefining \anw@print on input line 15961.
+LaTeX Info: Redefining \anw@print on input line 16231.
  [244]
 File: figs/lumpydemo8.pdf Graphic file (type QTm)
 
 <use  "figs/lumpydemo8.pdf" >
-LaTeX Info: Redefining \anw@print on input line 15966.
-LaTeX Info: Redefining \anw@print on input line 15997.
+LaTeX Info: Redefining \anw@print on input line 16236.
+LaTeX Info: Redefining \anw@print on input line 16272.
  [245]
-LaTeX Info: Redefining \anw@print on input line 15999.
-LaTeX Info: Redefining \anw@print on input line 16021.
+LaTeX Info: Redefining \anw@print on input line 16274.
+LaTeX Info: Redefining \anw@print on input line 16303.
 
 No file book.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 16036.
-LaTeX Info: Redefining \anw@print on input line 16036.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 16320.
+LaTeX Info: Redefining \anw@print on input line 16320.
 [246]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 16036.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 16320.
  (./book.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 16036.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 16036.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 16036.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 16320.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 16320.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 16320.
  )
 (\end occurred when \iffalse on line 54 was incomplete) 
 Here is how much of TeX's memory you used:
  23785 strings out of 493710
  432627 string characters out of 6149044
- 492109 words of memory out of 5000000
+ 492144 words of memory out of 5000000
  26839 multiletter control sequences out of 15000+600000
  16151 words of font info for 94 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191

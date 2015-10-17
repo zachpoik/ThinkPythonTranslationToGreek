@@ -1491,7 +1491,7 @@
 \indexentry{indentation|hyperpage}{180}
 \indexentry{function syntax|hyperpage}{180}
 \indexentry{dot notation|hyperpage}{180}
-\indexentry{method syntax|hyperpage}{180}
+\indexentry{method syntax|hyperpage}{181}
 \indexentry{subject|hyperpage}{181}
 \indexentry{self (parameter name)|hyperpage}{181}
 \indexentry{parameter!self|hyperpage}{181}
@@ -1519,8 +1519,8 @@
 \indexentry{operator overloading|hyperpage}{184}
 \indexentry{isinstance function|hyperpage}{184}
 \indexentry{function!isinstance|hyperpage}{184}
-\indexentry{type-based dispatch|hyperpage}{184}
-\indexentry{dispatch, type-based|hyperpage}{184}
+\indexentry{type-based dispatch|hyperpage}{185}
+\indexentry{dispatch, type-based|hyperpage}{185}
 \indexentry{commutativity|hyperpage}{185}
 \indexentry{radd method|hyperpage}{185}
 \indexentry{method!radd|hyperpage}{185}
@@ -1562,10 +1562,10 @@
 \indexentry{aliasing|hyperpage}{188}
 \indexentry{embedded object|hyperpage}{188}
 \indexentry{object!embedded|hyperpage}{188}
-\indexentry{Visual module|hyperpage}{188}
-\indexentry{module!Visual|hyperpage}{188}
-\indexentry{vpython module|hyperpage}{188}
-\indexentry{module!vpython|hyperpage}{188}
+\indexentry{Visual module|hyperpage}{189}
+\indexentry{module!Visual|hyperpage}{189}
+\indexentry{vpython module|hyperpage}{189}
+\indexentry{module!vpython|hyperpage}{189}
 \indexentry{color list|hyperpage}{189}
 \indexentry{available colors|hyperpage}{189}
 \indexentry{playing card, Anglo-American|hyperpage}{191}
@@ -1648,17 +1648,17 @@
 \indexentry{HAS-A relationship|hyperpage}{198}
 \indexentry{class diagram|hyperpage}{198}
 \indexentry{diagram!class|hyperpage}{198}
-\indexentry{multiplicity (in class diagram)|hyperpage}{199}
+\indexentry{multiplicity (in class diagram)|hyperpage}{198}
 \indexentry{debugging|hyperpage}{199}
 \indexentry{polymorphism|hyperpage}{199}
 \indexentry{flow of execution|hyperpage}{199}
 \indexentry{mro method|hyperpage}{199}
 \indexentry{method!mro|hyperpage}{199}
 \indexentry{method resolution order|hyperpage}{199}
-\indexentry{override|hyperpage}{199}
-\indexentry{interface|hyperpage}{199}
-\indexentry{precondition|hyperpage}{199}
-\indexentry{postcondition|hyperpage}{199}
+\indexentry{override|hyperpage}{200}
+\indexentry{interface|hyperpage}{200}
+\indexentry{precondition|hyperpage}{200}
+\indexentry{postcondition|hyperpage}{200}
 \indexentry{development plan|hyperpage}{200}
 \indexentry{data encapsulation|hyperpage}{200}
 \indexentry{encapsulation!data|hyperpage}{200}
@@ -1677,10 +1677,10 @@
 \indexentry{HAS-A relationship|hyperpage}{201}
 \indexentry{class diagram|hyperpage}{201}
 \indexentry{diagram!class|hyperpage}{201}
-\indexentry{multiplicity (in class diagram)|hyperpage}{201}
-\indexentry{poker|hyperpage}{201}
-\indexentry{Swampy|hyperpage}{202}
-\indexentry{TurtleWorld|hyperpage}{202}
+\indexentry{multiplicity (in class diagram)|hyperpage}{202}
+\indexentry{poker|hyperpage}{202}
+\indexentry{Swampy|hyperpage}{203}
+\indexentry{TurtleWorld|hyperpage}{203}
 \indexentry{Tagger|hyperpage}{203}
 \indexentry{GUI|hyperpage}{205}
 \indexentry{graphical user interface|hyperpage}{205}
@@ -1688,10 +1688,10 @@
 \indexentry{Gui module|hyperpage}{205}
 \indexentry{module!Gui|hyperpage}{205}
 \indexentry{Swampy|hyperpage}{205}
-\indexentry{event loop|hyperpage}{205}
-\indexentry{loop!event|hyperpage}{205}
-\indexentry{infinite loop|hyperpage}{205}
-\indexentry{loop!infinite|hyperpage}{205}
+\indexentry{event loop|hyperpage}{206}
+\indexentry{loop!event|hyperpage}{206}
+\indexentry{infinite loop|hyperpage}{206}
+\indexentry{loop!infinite|hyperpage}{206}
 \indexentry{widget|hyperpage}{206}
 \indexentry{Button widget|hyperpage}{206}
 \indexentry{widget!Button|hyperpage}{206}
@@ -1717,16 +1717,16 @@
 \indexentry{widget!Text|hyperpage}{208}
 \indexentry{Entry widget|hyperpage}{208}
 \indexentry{widget!Entry|hyperpage}{208}
-\indexentry{SimpleTurtleWorld class|hyperpage}{209}
-\indexentry{class!SimpleTurtleWorld|hyperpage}{209}
+\indexentry{SimpleTurtleWorld class|hyperpage}{210}
+\indexentry{class!SimpleTurtleWorld|hyperpage}{210}
 \indexentry{packing widgets|hyperpage}{210}
 \indexentry{widget, packing|hyperpage}{210}
 \indexentry{Frame widget|hyperpage}{210}
 \indexentry{widget!Frame|hyperpage}{210}
-\indexentry{callback|hyperpage}{210}
-\indexentry{bound method|hyperpage}{210}
-\indexentry{method, bound|hyperpage}{210}
-\indexentry{subject|hyperpage}{210}
+\indexentry{callback|hyperpage}{211}
+\indexentry{bound method|hyperpage}{211}
+\indexentry{method, bound|hyperpage}{211}
+\indexentry{subject|hyperpage}{211}
 \indexentry{geometry manager|hyperpage}{212}
 \indexentry{Menubutton widget|hyperpage}{212}
 \indexentry{widget!Menubutton|hyperpage}{212}
@@ -1883,7 +1883,7 @@
 \indexentry{badness|hyperpage}{231}
 \indexentry{logarithmic growth|hyperpage}{231}
 \indexentry{exponential growth|hyperpage}{231}
-\indexentry{practical analysis of algorithms|hyperpage}{231}
+\indexentry{practical analysis of algorithms|hyperpage}{232}
 \indexentry{unbounded|hyperpage}{232}
 \indexentry{analysis of primitives|hyperpage}{232}
 \indexentry{indexing|hyperpage}{232}
@@ -1891,25 +1891,25 @@
 \indexentry{join@{\tt join}|hyperpage}{232}
 \indexentry{string methods|hyperpage}{232}
 \indexentry{tuple methods|hyperpage}{232}
-\indexentry{list methods|hyperpage}{232}
+\indexentry{list methods|hyperpage}{233}
 \indexentry{sorting|hyperpage}{233}
 \indexentry{dictionary methods|hyperpage}{233}
 \indexentry{sorting|hyperpage}{233}
 \indexentry{comparison sort|hyperpage}{233}
 \indexentry{stable sort|hyperpage}{233}
-\indexentry{search|hyperpage}{233}
-\indexentry{linear search|hyperpage}{233}
-\indexentry{in@{\tt in} operator|hyperpage}{233}
+\indexentry{search|hyperpage}{234}
+\indexentry{linear search|hyperpage}{234}
+\indexentry{in@{\tt in} operator|hyperpage}{234}
 \indexentry{bisection search|hyperpage}{234}
 \indexentry{bisect@{\tt bisect} module|hyperpage}{234}
 \indexentry{bisect module|hyperpage}{234}
 \indexentry{module!bisect|hyperpage}{234}
 \indexentry{hashtable|hyperpage}{234}
-\indexentry{LinearMap@{\tt LinearMap}|hyperpage}{234}
+\indexentry{LinearMap@{\tt LinearMap}|hyperpage}{235}
 \indexentry{KeyError@{\tt KeyError}|hyperpage}{235}
 \indexentry{red-black tree|hyperpage}{235}
 \indexentry{BetterMap@{\tt BetterMap}|hyperpage}{235}
-\indexentry{hash function|hyperpage}{235}
+\indexentry{hash function|hyperpage}{236}
 \indexentry{bounded|hyperpage}{236}
 \indexentry{HashMap|hyperpage}{236}
 \indexentry{rehashing|hyperpage}{237}
